@@ -1,0 +1,22 @@
+- title: Über
+  link: /about.html
+
+- title: Für Besucher
+  link: /visitor.html
+
+- title: Für Aussteller
+  subdirectory: /exhibitors
+  submenu:
+  - title: Überblick
+    link: index.html
+  - title: Preise & Leistungen
+    link: pricing.html
+
+- title: FAQ
+  link: /faq.html
+
+- title: Links
+  link: /links.html
+
+#- title: Archiv
+#  link: /archive.html

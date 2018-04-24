@@ -1,0 +1,24 @@
+deploy_key
+deploy_key.pub
+vendor
+Gemfile.lock
+.bundle
+.sass-cache
+# OSX
+.DS_Store
+
+# Custom
+
+_site/
+_cache/
+site
+
+# Haskell
+
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv

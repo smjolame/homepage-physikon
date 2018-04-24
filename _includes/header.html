@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-md navbar-light bg-light pep-navbar">
+  <a class="navbar-brand" href="/">PhysiKon</a>
+  <button type="button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pep-navbar-1">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+    <div class="collapse navbar-collapse" id="pep-navbar-1">
+      <ul class="navbar-nav mr-auto">
+        {% for navlink in site.data.navigation %}
+          {% if navlink.submenu %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="installDropdown" role="button" data-toggle="dropdown">
+              {{navlink.title}}
+            </a>
+            <div class="dropdown-menu">
+              {% for sublink in navlink.submenu %}
+              <a class="dropdown-item" href="{{ navlink.subdirectory }}/{{ sublink.link }}">
+                {{ sublink.title }}
+              </a>
+              {% endfor %}
+            </div>
+          </li>
+          {% else %}
+          <li class="nav-item {% if page.url == navlink.link %} active {% endif %}" >
+            <a class="nav-link" href="{{ navlink.link }}">{{ navlink.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <a href="https://github.com/pep-dortmund/physikon-homepage" class="btn btn-default navbar-btn pull-right github">GitHub</a>
+    </div>
+  </div>
+</nav>

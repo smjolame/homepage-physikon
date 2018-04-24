@@ -1,0 +1,17 @@
+# Site settings
+title: PeP et al. e.V. PhysiKon
+email: physikon@pep-dortmund.org
+description: > # this means to ignore newlines until "baseurl:"
+  Jobmesse der Fakultät Physik der TU Dortmund
+baseurl: '' # the subpath of your site, e.g. /blog
+# the base hostname & protocol for your site
+url: https://physikon.pep-dortmund.org
+markdown: kramdown
+exclude:
+  - "deploy_key"
+  - "deploy_key.enc"
+  - "vendor"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "publish.sh"
+  - "README.md"
