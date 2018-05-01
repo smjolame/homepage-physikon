@@ -8,7 +8,7 @@ then
 	# first add remote host to known hosts
 	ssh-keyscan -t rsa $DEPLOY_HOST 2> /dev/null | sort -u - ~/.ssh/known_hosts -o ~/.ssh/known_hosts
 	# decrypt private shh key
-	openssl aes-256-cbc -K $encrypted_eb190b61ccca_key -iv $encrypted_eb190b61ccca_iv -in deploy_key.enc -out deploy_key -d
+	openssl aes-256-cbc -K  $encrypted_3fc62a950146_key -iv $encrypted_3fc62a950146_iv -in deploy_key.enc -out deploy_key -d
 
 
 	# start ssh-agent and add the key
