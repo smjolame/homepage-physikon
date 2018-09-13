@@ -21,12 +21,10 @@ Darin sind folgende Leistungen enthalten:
   veröffentlichen.
 
 - **Präsentation**  
-  Den Absolventen uns Studierenden sollen auf der PhysiKon nicht nur Unternehmen
+  Den Absolventen und Studierenden sollen auf der PhysiKon nicht nur Unternehmen
   präsentiert werden, sondern auch die Berufsrealität näher gebracht werden.
-  Dazu ist es erforderlich, dass Sie diese Berufsrealität in Ihrem Unternehmen
-  in einem 15 minütigen Vortrag vorstellen. Abschließend werden Sie von den
-  Besuchern bewertet, wie gut die Berufsrealität von Ihnen dargestellt worden
-  ist.
+  Neben persönlichen Gesprächen mit den Besuchern bieten wir Ihnen daher auch die Möglichkeit 
+  ihr Unternehmen und Ihren Berufsalltag in einem kurzen Vortrag einem größeren Publikum vorzustellen. 
 
 - **Stellenmarkt**  
   Auf dem Stellenmarkt können Sie offene Stellen, Praktika oder Traineeprogramme
