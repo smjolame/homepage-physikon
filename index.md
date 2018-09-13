@@ -4,7 +4,7 @@ title: PeP et al. PhysiKon
 ---
 
 <p class="lead" markdown="1">
-Am 4. April 2019 bietet PeP et al. eine Jobmesse in der Fakultät Physik an und sucht dafür Unternehmen, die Physiker einstellen und sich auf unserer Messe vorstellen möchten.
+Am 11. April 2019 bietet PeP et al. eine Jobmesse in der Fakultät Physik an und sucht dafür Unternehmen, die Physiker einstellen und sich auf unserer Messe vorstellen möchten.
 </p>
 
 Wir bieten Ihrem Unternehmen die Möglichkeit, mit unseren Studierenden und Absolventen persönlich in Kontakt zu treten.
