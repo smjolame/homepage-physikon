@@ -116,17 +116,33 @@ a {
 	text-decoration: none;
 	color: white;
 	font-family: "Lato";
-	font-style: italic;
+	font-weight: 600;
 	font-size: 35px;
+	text-decoration: underline var(--pep-blue);
 }
 
+/* Wellenpaket schließt mit Unterstrich vom Title ab */
 .navbar-brand-image {
 	height: 50px;
+	margin-top: 24px;
+	color: var(--pep-blue);
 }
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-align: right;
+}
+
+
 
 /* Physikon Body */
 .physikon-body {
 	background-color: #f1f0f0;
+	/*background-color: var(--pep-yellow);*/
+	padding-top: 100px;
+	font-family: "Lato";
+	font-weight: 400;
 }
 
 .card-body-new {
@@ -139,4 +155,8 @@ a {
   width: 95%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.lead {
+	font-weight: 320;
 }
