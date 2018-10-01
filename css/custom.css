@@ -1,3 +1,142 @@
+/* Add Pep et. al colors (from styleguide) */
+:root {
+	--pep-gray: #565656;
+	--pep-blue: #397CCC;
+	--pep-green: #2CCCA0;
+	--pep-yellow: #FFB137;
+}
+
+/* choose primary, secondary background-colors */
+.bg-primary {
+	background-color: var(--pep-blue) !important;
+}
+
+.bg-secondary {
+  background-color: var(--pep-gray) !important;
+}
+
+/* choose primary, secondary text-colors */
+.text-primary {
+  color: var(--pep-yellow) !important;
+}
+
+.text-secondary {
+  color: var(--pep-gray) !important;
+}
+
+/* custom */
+hr.star-light {
+	border-color: var(--pep-gray);
+}
+
+hr.star-light:after {
+	background-color: var(--pep-blue);
+}
+
+body {
+	font-family: Lato;
+}
+
+h1 {
+	font-weight: 600;
+}
+
+.text-uppercase {
+	text-transform: none !important;
+}
+/* war schon da.. */
 a {
   color: #397CCC;
+}
+
+
+/* Carousel new classes*/
+.carousel-img-new {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 140px;
+}
+
+/* Add top: 150px */
+.carousel-caption-new {
+	top: 140px;
+	position: absolute;
+	right: 15%;
+	bottom: 20px;
+	left: 15%;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #fff;
+	text-align: center;
+	color: var(--pep-gray);
+}
+
+.carousel {
+  position: relative;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%397ccc' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%397ccc' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-indicators li {
+  position: relative;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: var(--pep-gray);
+}
+
+.carousel-indicators .active {
+  background-color: var(--pep-blue);
+}
+
+
+
+/* Navbar */
+.navbar-brand-new:not(.nohover) {
+	display: inline-block;
+	padding-top: 0.3125rem;
+	padding-bottom: 0.3125rem;
+	margin-right: 1rem;
+	font-size: 1.25rem;
+	line-height: inherit;
+	white-space: nowrap;
+	text-decoration: none;
+	color: white;
+	font-family: "Lato";
+	font-style: italic;
+	font-size: 35px;
+}
+
+.navbar-brand-image {
+	height: 50px;
+}
+
+/* Physikon Body */
+.physikon-body {
+	background-color: #f1f0f0;
+}
+
+.card-body-new {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 5px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
 }
