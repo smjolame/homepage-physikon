@@ -1,0 +1,58 @@
+<!-- Übersicht und Googlemaps in einer Reihe -->
+<div class="card-body-new">
+<div class="row">
+
+<!-- Erste Spalte: Übersicht (Datum, Uhrzeit, Ort) -->
+<div class="col-12 col-lg-6 mb-3">
+<div class="card">
+<div class="card-body-new">
+<h5 class="card-title">Übersicht</h5>
+
+<!-- Übersicht (Datum, Uhrzeit, Ort-->
+  <div class="container pt-5 pl-0 pr-0">
+  <div class="row">
+    <div class="col-sm">
+      <h5><i class="fas fa-location-arrow"></i> Location</h5>
+      <p >Vogelpothsweg 118, 44227 Dortmund </p>
+    </div>
+    <div class="col-sm">
+      <h5><i class="fas fa-calendar-alt"></i> Datum</h5>
+      <p> 04. April 2019
+    </div>
+    <div class="col-sm">
+      <h5><i class="fas fa-clock"></i> Uhrzeit</h5>
+      <p> 10 - 16 Uhr</p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Zweite Spalte: Googlemaps -->
+<div class="col-12 col-lg-6 mb-3">
+	<div class="card">
+	<div class="card-body-new">
+		<h5 class="card-title">Karte</h5>
+		<p>          Direkt an der S-Bahn Station gelegen, ist der Campus-Treff der perfekte
+          Ort um an vielen Ständen ins Gespräch zu kommen. </p>
+
+<!-- Googlemaps -->
+<div id="googleMap" style="width:100%;height:450px;"></div>
+
+</div>
+</div>
+
+<!-- Googlemaps Script -->
+<script>
+function myMap() {
+var mapProp= {
+    center:new google.maps.LatLng(51.492292, +7.418030),
+    zoom:15,
+};
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUrYGA0jkAdKCHL2kbbrQMTDa6zL0TPYk&callback=myMap"></script>
+</div>
