@@ -34,7 +34,11 @@ hr.star-light:after {
 }
 
 body {
-	font-family: Lato;
+    background-color: #f1f0f0;
+    /*background-color: var(--pep-yellow);*/
+    padding-top: 110px;
+    font-family: Roboto;
+    font-weight: 400;
 }
 
 h1 {
@@ -142,14 +146,6 @@ a {
 
 
 /* Physikon Body */
-.physikon-body {
-	background-color: #f1f0f0;
-	/*background-color: var(--pep-yellow);*/
-	padding-top: 110px;
-	font-family: "Lato";
-	font-weight: 400;
-}
-
 .card-body-new {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
