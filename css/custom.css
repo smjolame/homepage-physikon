@@ -4,6 +4,7 @@
 	--pep-blue: #397CCC;
 	--pep-green: #2CCCA0;
 	--pep-yellow: #FFB137;
+    --maincolor: var(--pep-yellow);
 }
 
 /* Body (font-family etc.) */
@@ -106,7 +107,7 @@ a {
 }
 
 .carousel-indicators .active {
-  background-color: var(--pep-blue);
+  background-color: var(--maincolor);
 }
 
 
@@ -125,7 +126,7 @@ a {
 	font-family: Roboto !important;
 	font-weight: 600;
 	font-size: 35px;
-	text-decoration: underline var(--pep-yellow);
+	text-decoration: underline var(--maincolor);
 }
 
 /* Wellenpaket schließt mit Unterstrich vom Title ab */
@@ -140,7 +141,7 @@ a {
   padding: 0.5rem 1rem;
   text-align: right;
   font-size: 25px;
-  color: var(--pep-yellow) !important;
+  color: var(--maincolor) !important;
 }
 
 .nav-link:hover {
