@@ -18,7 +18,7 @@ body {
 
 /* choose primary, secondary background-colors */
 .bg-primary {
-	background-color: var(--pep-blue) !important;
+	background-color: var(--pep-yellow) !important;
 }
 
 .bg-secondary {
