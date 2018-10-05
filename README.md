@@ -49,7 +49,8 @@ $ bundle exec jekyll serve
 * Bewerberseite
 * ggf. komplette Übersicht aller Unternehmen
 * ggf. Carousel-Caption um 'Unternehmens-Quote' erweitern 
-* Logo erstellen (font-family: Lato)
+* Logo erstellen (font-family: Roboto)
+* Carousel / Card Höhe dynamisch 
 
 ### Notizen
 
