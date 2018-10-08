@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 99 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="logo" transform="matrix(0.852607,0,0,0.852607,1.78377,2.91118)">
+        <g transform="matrix(1.19633,0,0,1.17287,-8.78661,-0.0602053)">
+            <text x="26.097px" y="34.288px" style="font-family:Fira Sans;font-size:11px;font-weight:350;fill:rgb(221,132,30);">d<tspan x="32.532px 38.384px 42.19px 48.042px 50.88px 60.186px 66.038px 69.844px 73.542px 79.449px 83.444px 88.46px " y="34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px 34.288px ">ata matters.</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-6.78474,13.886)">
+            <text x="18.099px" y="11.663px" style="font-family:Fira Sans;font-size:30px;font-weight:500;fill:rgb(25,102,140);">point8</text>
+        </g>
+    </g>
+</svg>
