@@ -1,12 +1,32 @@
 [
   {
     "title": "Data Science as a Service",
-    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen. Anders als viele unserer Mitbewerber sind wir Umsetzer und keine reine Consulting-Firma. Wir legen großen Wert auf eine intensive Prototyping-Phase, in der wir Ihnen für Ihre individuellen Unternehmensdaten das Potential unserer Methoden beweisen. Nach Consulting und Prototyping schließen wir das Projekt ab, indem wir die Integration unserer Lösung in Ihre Unternehmensprozesse begleiten.",
-    "url": "https://point-8.de/static/img/point8.png"
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "url": "/img/logos/point8.svg",
   },
   {
     "title": "Eine nachhaltige Perspektive ",
     "caption": "Wir bieten Ihnen ein spannendes und zukunftsweisendes Umfeld sowie hervorragende Aus-und Weiterbildungsmöglichkeiten.",
-    "url": "/img/mitnorm.svg"
+    "url": "/img/logos/mitnorm.svg",
+  },
+  {
+    "title": "TECHNOLOGY WITH VISION - WELCOME TO HELLA",
+    "caption": "THE INNOVATIVE, PERFORMANCE ORIENTED FAMILY-OWNED COMPANY",
+    "url": "/img/logos/hella.png",
+  },
+  {
+    "title": "Lightning Fast Data Science for Teams",
+    "caption": "Join the 30,000+ global organizations in every industry who use the RapidMiner platform to drive revenue, reduce costs, and avoid risk.",
+    "url": "/img/logos/rapidminer.png",
+  },
+  {
+    "title": "Die SCISYS-Unternehmensgruppe ist ein führender Anbieter von IT-Services.",
+    "caption": "Wir entwickeln zuverlässige und praxisnahe Lösungen und liefern unterstützende Dienstleistungen, die echte Geschäftsvorteile bedeuten.",
+    "url": "/img/logos/scysis.png",
+  },
+  {
+    "title": "WIR SIND ZEB. WIR HABEN LUST AUF IHREN ERFOLG.",
+    "caption": "„zeb – Europas führende Strategie- und Managementberatung im Finanzdienstleistungssektor – zeichnet sich durch das WIR und starke gemeinsame Werte aus. ",
+    "url": "/img/logos/zeb_Logo_CMYK.png",
   },
 ]
