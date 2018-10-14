@@ -189,3 +189,7 @@ a {
 .p-fontsize {
     font-size: 20px !important;
 }
+
+.mh200 {
+  max-height: 200px;
+}
