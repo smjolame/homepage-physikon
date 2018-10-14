@@ -3,30 +3,36 @@
     "title": "Data Science as a Service",
     "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
     "url": "/img/logos/point8.svg",
+    "url2": "https://point-8.de/",
   },
   {
     "title": "Eine nachhaltige Perspektive ",
     "caption": "Wir bieten Ihnen ein spannendes und zukunftsweisendes Umfeld sowie hervorragende Aus-und Weiterbildungsmöglichkeiten.",
     "url": "/img/logos/mitnorm.svg",
+    "url2": "https://mitnorm.de/",
   },
   {
     "title": "TECHNOLOGY WITH VISION - WELCOME TO HELLA",
     "caption": "THE INNOVATIVE, PERFORMANCE ORIENTED FAMILY-OWNED COMPANY",
     "url": "/img/logos/hella.png",
+    "url2": "https://www.hella.com",
   },
   {
     "title": "Lightning Fast Data Science for Teams",
     "caption": "Join the 30,000+ global organizations in every industry who use the RapidMiner platform to drive revenue, reduce costs, and avoid risk.",
     "url": "/img/logos/rapidminer.png",
+    "url2": "https://rapidminer.com/",
   },
   {
     "title": "Die SCISYS-Unternehmensgruppe ist ein führender Anbieter von IT-Services.",
     "caption": "Wir entwickeln zuverlässige und praxisnahe Lösungen und liefern unterstützende Dienstleistungen, die echte Geschäftsvorteile bedeuten.",
     "url": "/img/logos/SCISYS.jpg",
+    "url2": "https://www.scisys.de/",
   },
   {
     "title": "WIR SIND ZEB. WIR HABEN LUST AUF IHREN ERFOLG.",
     "caption": "„zeb – Europas führende Strategie- und Managementberatung im Finanzdienstleistungssektor – zeichnet sich durch das WIR und starke gemeinsame Werte aus. ",
     "url": "/img/logos/zeb_Logo_CMYK.png",
+    "url2": "https://www.zeb.de/",
   },
 ]

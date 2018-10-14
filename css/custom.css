@@ -193,3 +193,16 @@ a {
 .mh200 {
   max-height: 200px;
 }
+
+/* Carousel hover*/
+.carousel-item active:hover,
+.carousel-item:hover {
+  transition: all ease 0.25s;
+  opacity: .5
+}
+
+/* Grid hover*/
+.hover-image:hover {
+  transition: all ease 0.25s;
+  opacity: .5
+}
