@@ -197,12 +197,20 @@ a {
 /* Carousel hover*/
 .carousel-item active:hover,
 .carousel-item:hover {
-  transition: all ease 0.25s;
-  opacity: .5
+  transition: all ease 0.5s;
+  opacity: .75;
+  transform: scale(1.05);
 }
 
 /* Grid hover*/
 .hover-image:hover {
+  transition: all ease 0.5s;
+  opacity: .75;
+  transform: scale(1.05);
+}
+
+/* Info Hover*/
+.info-hover:hover {
   transition: all ease 0.25s;
-  opacity: .5
+  font-size: 34px;
 }

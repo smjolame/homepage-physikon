@@ -28,7 +28,7 @@
     {% for image in include.data %}
     {% if forloop.first == true %}
     <div class="carousel-item active">
-      <a href="{{ image.url2 }}">
+      <a href="{{ image.url2 }}" target="_blank">
       <img class="carousel-img-new" src="{{ image.url }}" alt="{{ image.title }}">
          <div class="carousel-caption-new">
         <h5>{{ image.title }}</h5>
@@ -37,7 +37,7 @@
     </div>
     {% else %}
     <div class="carousel-item">
-      <a href="{{ image.url2 }}">
+      <a href="{{ image.url2 }}" target="_blank">
       <img class="carousel-img-new" src="{{ image.url }}" alt="{{ image.title }}">
         <div class="carousel-caption-new">
         <h5>{{ image.title }}</h5>

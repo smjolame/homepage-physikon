@@ -12,16 +12,14 @@
   {% if loopindex == 1 %}
       <div class="row text-center">
     <div class="col-md-6 col-lg-6">
-      <a class="portfolio-item d-block mx-auto" href="{{ post.url2 }}">
-        <div class="hover-image">
-      <img class="img-fluid mh200" src="{{ post.url }}" alt=""></div>
+      <a class="portfolio-item d-block mx-auto" href="{{ post.url2 }}" target="_blank">
+      <img class="img-fluid mh200 hover-image" src="{{ post.url }}" alt="">
     </a>
     </div>
   {% else %}
     <div class="col-md-6 col-lg-6">
-      <a class="portfolio-item d-block mx-auto" href="{{ post.url2 }}">
-        <div class="hover-image">
-      <img class="img-fluid mh200" src="{{ post.url }}" alt=""></a></div>
+      <a class="portfolio-item d-block mx-auto" href="{{ post.url2 }}" target="_blank">
+      <img class="hover-image img-fluid mh200" src="{{ post.url }}" alt=""></a>
     </div>
     </div>
   {% endif %}
