@@ -22,12 +22,12 @@ h6 {
 hr.star-light,
 hr.star-dark {
   max-width: 75%;
-  padding: 0;
+  padding-bottom: 45px;
   text-align: center;
   border: none;
   border-top: solid 0.21rem;
   margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 5.5rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -37,11 +37,17 @@ hr.star-dark:after {
   position: relative;
   top: -.8em;
   display: inline-block;
-  padding: 0 0.25em;
-  content: '\f0c3';
-  font-family: "Font Awesome 5 Free";
+  padding: 0 0.55em;
+  /*padding-bottom: 150px;*/
+  /*content: '\f0c3';*/
+  /*font-family: "Font Awesome 5 Free";*/
+  content: url(/img/schwingung.svg);
+
+  /* CSS Magic ... */
+  transform: scale(.9);
+  transform: translateY(-10px);
   font-weight: 900;
-  font-size: 2.2em;
+  font-size: 2em;
 }
 
 hr.star-light {
