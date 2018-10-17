@@ -177,10 +177,6 @@ a {
 	font-weight: 320;
 }
 
-/* OpenStreetMap*/
-.map-iframe {
-    width: 100%;
-}
 
 .h2-fontsize {
     font-size: 2.7rem !important;
@@ -214,3 +210,26 @@ a {
   transition: all ease 0.25s;
   font-size: 34px;
 }
+
+/* OpenStreetMap*/
+.map-iframe {
+    width: 80%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.map-link {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.map-link:hover {
+  color: var(--pep-yellow);
+  text-decoration: none;
+}
+
+/*#map {
+  pointer-events: none;
+}*/
