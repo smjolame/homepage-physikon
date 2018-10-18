@@ -13,7 +13,7 @@
 
   <!-- Carousel Indicators -->
    <ol class="carousel-indicators">
-    {% for image in include.data %}
+    {% for unternehmen in include.data %}
     {% if forloop.first == true %}
     <li data-target="#{{ include.name }}" data-slide-to="0" class="active"></li>
 
@@ -25,23 +25,23 @@
 
   <!-- Carousel items -->
   <!-- Active item -->
-    {% for image in include.data %}
+    {% for unternehmen in include.data %}
     {% if forloop.first == true %}
     <div class="carousel-item active">
-      <a href="{{ image.url2 }}" target="_blank">
-      <img class="carousel-img-new" src="{{ image.url }}" alt="{{ image.title }}">
+      <a href="{{ unternehmen.url }}" target="_blank">
+      <img class="carousel-img-new" src="{{ unternehmen.logo }}" alt="{{ unternehmen.title }}">
          <div class="carousel-caption-new">
-        <h5>{{ image.title }}</h5>
-        <p>{{ image.caption }}</p>
+        <h5>{{ unternehmen.title }}</h5>
+        <p>{{ unternehmen.caption }}</p>
         </div></a>
     </div>
     {% else %}
     <div class="carousel-item">
-      <a href="{{ image.url2 }}" target="_blank">
-      <img class="carousel-img-new" src="{{ image.url }}" alt="{{ image.title }}">
+      <a href="{{ unternehmen.url }}" target="_blank">
+      <img class="carousel-img-new" src="{{ unternehmen.logo }}" alt="{{ unternehmen.title }}">
         <div class="carousel-caption-new">
-        <h5>{{ image.title }}</h5>
-        <p>{{ image.caption }}</p>
+        <h5>{{ unternehmen.title }}</h5>
+        <p>{{ unternehmen.caption }}</p>
         </div></a>
     </div>
     {% endif %}
