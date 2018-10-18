@@ -2,35 +2,40 @@
 <!-- OpenLayers -->
 
 
+<link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.2.0/css/ol.css" type="text/css">
 <div id="map" class="map-iframe"></div>
-
-
+<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.2.0/build/ol.js"></script>
 <!-- Skript -->
-<script type="text/javascript">
-var baseMapLayer = new ol.layer.Tile({
-  source: new ol.source.OSM()
-});
-var map = new ol.Map({
-  interactions: ol.interaction.defaults({mouseWheelZoom:false}),
-  target: 'map',
-  layers: [ baseMapLayer],
-  view: new ol.View({
-          center: ol.proj.fromLonLat([7.41721, 51.49290]), // Genauen Ort hinzufügen
-          zoom: 16 //Initial Zoom Level
-        })
-});
 
-//Adding a marker on the map
-var marker = new ol.Feature({
-  geometry: new ol.geom.Point(
-    ol.proj.fromLonLat([7.41721, 51.49290])
-  ),  
-});
-var vectorSource = new ol.source.Vector({
-  features: [marker]
-});
-var markerVectorLayer = new ol.layer.Vector({
-  source: vectorSource,
-});
-map.addLayer(markerVectorLayer);
+
+<script type="text/javascript">
+  var map = new ol.Map({
+    interactions: ol.interaction.defaults({mouseWheelZoom:false}),
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      })
+    ],
+    view: new ol.View({
+      center: ol.proj.fromLonLat([7.41721, 51.49290]),
+      zoom: 16
+    })
+     });
+    var marker = new ol.Feature({
+      geometry: new ol.geom.Point(
+        ol.proj.fromLonLat([7.41721, 51.49290])
+      ),  
+    });
+
+    var vectorSource = new ol.source.Vector({
+      features: [marker]
+    });
+    var markerVectorLayer = new ol.layer.Vector({
+      source: vectorSource,
+    });
+    map.addLayer(markerVectorLayer);
 </script>
+
+<!-- OpenLayers -->
+<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.2.0/build/ol.js"></script>
