@@ -240,7 +240,7 @@ a {
 /* Umgebung (Quadrat) durch .tie-logo */
 /* Falls nur Krawatte sichtbar sein soll: color in .tie-logo zu var(--pep-gray) ändern */
 /* (s. Kommentare; die dann entkommentieren bzw. color/background-color auskommentieren) */
-
+/* Falls das Logo größer/kleiner werden soll, muss der Hintergrund manuell angepasst werden (width, height) */
 .tie-logo {
   padding-right: 5px;
   /*color: var(--pep-gray);*/
