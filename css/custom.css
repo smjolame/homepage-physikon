@@ -230,30 +230,21 @@ a {
   text-decoration: none;
 }
 
-/*#map {
-  pointer-events: none;
-}*/
+/* Header Big Logo*/
+.physikon-jumbotron {
+  position: relative;
+  /*background-color: var(--pep-gray);*/
+  background-color: white;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 22px;
+  padding-bottom: 10px;
+  padding-top: 25px;
 
-
-/* Work Around für das Tie-Logo */
-/* Hintergrund (Farbe der Krawatte) ist über .tie-logo-background zu steuern */
-/* Umgebung (Quadrat) durch .tie-logo */
-/* Falls nur Krawatte sichtbar sein soll: color in .tie-logo zu var(--pep-gray) ändern */
-/* (s. Kommentare; die dann entkommentieren bzw. color/background-color auskommentieren) */
-/* Falls das Logo größer/kleiner werden soll, muss der Hintergrund manuell angepasst werden (width, height) */
-.tie-logo {
-  padding-right: 5px;
-  /*color: var(--pep-gray);*/
-  color: var(--pep-yellow);
-  z-index: 2;
 }
 
-.tie-logo-background {
-  position: absolute;
-  /*background-color: var(--pep-yellow);*/
-  background-color: white;
-  width: 30px;
-  height: 35px;
-  margin-left: 3px;
-  z-index: 1;
+.logo {
+  display: inline-block;
 }

@@ -182,7 +182,7 @@ section h2 {
 header.masthead {
   padding-top: calc(4rem + 72px);
   padding-bottom: 4rem;
-  margin-top: -100px;
+  margin-top: -50px;
 }
 
 header.masthead h1 {
