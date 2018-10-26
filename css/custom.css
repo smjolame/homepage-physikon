@@ -18,6 +18,13 @@ body {
     font-weight: 400;
 }
 
+.yellow {
+  color: var(--pep-yellow);
+}
+
+.gray {
+  color: var(--pep-gray);
+}
 
 /* choose primary, secondary background-colors */
 .bg-primary {
