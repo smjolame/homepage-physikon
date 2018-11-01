@@ -39,15 +39,19 @@ hr.star-dark:after {
   display: inline-block;
   padding: 0 0.55em;
   /*padding-bottom: 150px;*/
-  content: '\f508';
+  /*content: '\f508';*/
   /*font-family: "Font Awesome 5 Free";*/
-  /*content: url(/img/schwingung.svg);*/
+  content: url(/img/schwingung_only.svg);
 
   /* CSS Magic ... */
   transform: scale(.9);
   transform: translateY(-10px);
   font-weight: 900;
   font-size: 2em;
+}
+
+hr.star-dark:after {
+  content: url(/img/schwingung_only_dark.svg);
 }
 
 hr.star-light {
