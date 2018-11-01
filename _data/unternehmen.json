@@ -1,10 +1,17 @@
 [
   {
-    "name": "point8",
-    "title": "Data Science as a Service",
-    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
-    "logo": "/img/logos/point8.svg",
-    "url": "https://point-8.de/",
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de",
+  },
+  {
+    "name": "HELLA",
+    "title": "Technology with Vision",
+    "caption": "The innovative, performance oriented family-owned company",
+    "logo": "/img/logos/hella.svg",
+    "url": "https://www.hella.com",
   },
   {
     "name": "mitNORM",
@@ -14,11 +21,11 @@
     "url": "https://mitnorm.de/",
   },
   {
-    "name": "HELLA",
-    "title": "Technology with Vision",
-    "caption": "The innovative, performance oriented family-owned company",
-    "logo": "/img/logos/hella.png",
-    "url": "https://www.hella.com",
+    "name": "point8",
+    "title": "Data Science as a Service",
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "logo": "/img/logos/point8.svg",
+    "url": "https://point-8.de/",
   },
   {
     "name": "RapidMiner",
@@ -38,7 +45,7 @@
     "name": "ZEB",
     "title": "Wir sind ZEB. Wir haben Lust auf Ihren Erfolg.",
     "caption": "„zeb – Europas führende Strategie- und Managementberatung im Finanzdienstleistungssektor – zeichnet sich durch das WIR und starke gemeinsame Werte aus. ",
-    "logo": "/img/logos/zeb_Logo_CMYK.png",
+    "logo": "/img/logos/zeb.png",
     "url": "https://www.zeb.de/",
   },
 ]
