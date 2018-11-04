@@ -1,9 +1,26 @@
+html {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
 /* Add Pep et. al colors (from styleguide) */
 :root {
 	--pep-gray: #565656;
-	--pep-blue: #397CCC;
+	--pep-blue: #5b8fcb;
 	--pep-green: #2CCCA0;
 	--pep-yellow: #FFB137;
+	--light-gray: #7C7C7C;
     --maincolor: var(--pep-yellow);
     --body-bg: #f1f0f0;
     --body-bg: white;
@@ -50,7 +67,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-	background-color: var(--pep-blue);
+	background-color: var(--light-gray);
 }
 
 
@@ -73,6 +90,8 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	max-height: 140px;
+	max-width: 100%;
+
 }
 
 /* Add top: 150px */

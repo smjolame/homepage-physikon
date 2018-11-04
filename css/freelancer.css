@@ -184,13 +184,12 @@ section h2 {
 }
 
 header.masthead {
-  padding-top: calc(4rem + 72px);
+  padding-top: 0pt;
   padding-bottom: 4rem;
-  margin-top: -50px;
 }
 
 header.masthead h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 3rem;
 }
 
@@ -201,7 +200,6 @@ header.masthead h2 {
 
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(4rem + 106px);
     padding-bottom: 4rem;
   }
   header.masthead h1 {
