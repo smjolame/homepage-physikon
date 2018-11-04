@@ -14,6 +14,20 @@
     "url": "https://www.hella.com",
   },
   {
+    "name": "IAV",
+    "title": "Wir entwickeln was bewegt",
+    "caption": "IAV – Ihr Partner für Automotive Engineering. Als einer der global führenden Engineering-Partner entwickelt IAV die Mobilität der Zukunft.",
+    "logo": "/img/logos/iav.png",
+    "url": "https://www.iav.com",
+  },
+  {
+    "name": "Karriere-Institut",
+    "title": "Nehmen Sie Ihre Karriere selbst in die Hand",
+    "caption": "Wir unterstützen Sie dabei, die eigene berufliche Zukunft aktiv zu gestalten und damit in eine gute und erfolgreiche berufliche Zukunft zu steuern.",
+    "logo": "/img/logos/Karriereinstitut_Logo_RGB.png",
+    "url": "https://www.daskarriereinstitut.de/",
+  },
+  {
     "name": "mitNORM",
     "title": "Eine nachhaltige Perspektive ",
     "caption": "Wir bieten Ihnen ein spannendes und zukunftsweisendes Umfeld sowie hervorragende Aus-und Weiterbildungsmöglichkeiten.",
@@ -42,10 +56,18 @@
     "url": "https://www.scisys.de/",
   },
   {
+    "name": "W:P",
+    "title": "",
+    "caption": "Karriereberatung, Jobvermittelung und Seminare für Studenten, Akademiker, Young Professionals und qualifizierte Fachkräfte.",
+    "logo": "/img/logos/WP_Logo_mittig Claim_RGB.jpg",
+    "url": "https://www.wirpersonalberater.de/",
+  },
+  {
     "name": "ZEB",
     "title": "Wir sind ZEB. Wir haben Lust auf Ihren Erfolg.",
     "caption": "„zeb – Europas führende Strategie- und Managementberatung im Finanzdienstleistungssektor – zeichnet sich durch das WIR und starke gemeinsame Werte aus. ",
     "logo": "/img/logos/zeb.png",
     "url": "https://www.zeb.de/",
   },
+
 ]
