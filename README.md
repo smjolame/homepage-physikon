@@ -39,3 +39,7 @@ You might need to reload without cache (`Shift` + `R` in Chrome).
 ```
 $ bundle exec jekyll serve
 ```
+
+# PeP et al. PhysiKon website remake
+
+Über ```_data/unternehmen.json``` können weitere Messeteilnehmer zum Carousel hinzugefügt werden.

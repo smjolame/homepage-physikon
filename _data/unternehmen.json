@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de",
+  },
+  {
+    "name": "HELLA",
+    "title": "Technology with Vision",
+    "caption": "The innovative, performance oriented family-owned company",
+    "logo": "/img/logos/hella.svg",
+    "url": "https://www.hella.com",
+  },
+  {
+    "name": "IAV",
+    "title": "Wir entwickeln was bewegt",
+    "caption": "IAV – Ihr Partner für Automotive Engineering. Als einer der global führenden Engineering-Partner entwickelt IAV die Mobilität der Zukunft.",
+    "logo": "/img/logos/iav.png",
+    "url": "https://www.iav.com",
+  },
+  {
+    "name": "Karriere-Institut",
+    "title": "Nehmen Sie Ihre Karriere selbst in die Hand",
+    "caption": "Wir unterstützen Sie dabei, die eigene berufliche Zukunft aktiv zu gestalten und damit in eine gute und erfolgreiche berufliche Zukunft zu steuern.",
+    "logo": "/img/logos/Karriereinstitut_Logo_RGB.png",
+    "url": "https://www.daskarriereinstitut.de/",
+  },
+  {
+    "name": "mitNORM",
+    "title": "Eine nachhaltige Perspektive ",
+    "caption": "Wir bieten Ihnen ein spannendes und zukunftsweisendes Umfeld sowie hervorragende Aus-und Weiterbildungsmöglichkeiten.",
+    "logo": "/img/logos/mitnorm.svg",
+    "url": "https://mitnorm.de/",
+  },
+  {
+    "name": "point8",
+    "title": "Data Science as a Service",
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "logo": "/img/logos/point8.svg",
+    "url": "https://point-8.de/",
+  },
+  {
+    "name": "RapidMiner",
+    "title": "Lightning Fast Data Science for Teams",
+    "caption": "Join the 30,000+ global organizations in every industry who use the RapidMiner platform to drive revenue, reduce costs, and avoid risk.",
+    "logo": "/img/logos/rapidminer.png",
+    "url": "https://rapidminer.com/",
+  },
+  {
+    "name": "SCISYS",
+    "title": "Die SCISYS-Unternehmensgruppe ist ein führender Anbieter von IT-Services.",
+    "caption": "Wir entwickeln zuverlässige und praxisnahe Lösungen und liefern unterstützende Dienstleistungen, die echte Geschäftsvorteile bedeuten.",
+    "logo": "/img/logos/SCISYS.jpg",
+    "url": "https://www.scisys.de/",
+  },
+  {
+    "name": "W:P",
+    "title": "",
+    "caption": "Karriereberatung, Jobvermittelung und Seminare für Studenten, Akademiker, Young Professionals und qualifizierte Fachkräfte.",
+    "logo": "/img/logos/WP_Logo_mittig Claim_RGB.jpg",
+    "url": "https://www.wirpersonalberater.de/",
+  },
+  {
+    "name": "ZEB",
+    "title": "Wir sind ZEB. Wir haben Lust auf Ihren Erfolg.",
+    "caption": "„zeb – Europas führende Strategie- und Managementberatung im Finanzdienstleistungssektor – zeichnet sich durch das WIR und starke gemeinsame Werte aus. ",
+    "logo": "/img/logos/zeb.png",
+    "url": "https://www.zeb.de/",
+  },
+
+]

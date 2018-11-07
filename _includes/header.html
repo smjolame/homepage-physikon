@@ -1,34 +1,63 @@
-<nav class="navbar navbar-expand navbar-light bg-light pep-navbar mb-3">
-  <a class="navbar-brand" href="/">
-    <img src="/img/schwingung.svg" height="30" />
-    PhysiKon
-  </a>
-  <button type="button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#pep-navbar-1">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-    <div class="collapse navbar-collapse" id="pep-navbar-1">
-      <ul class="navbar-nav mr-auto">
-        {% for navlink in site.data.navigation %}
-          {% if navlink.submenu %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="installDropdown" role="button" data-toggle="dropdown">
-              {{navlink.title}}
-            </a>
-            <div class="dropdown-menu">
-              {% for sublink in navlink.submenu %}
-              <a class="dropdown-item" href="{{ navlink.subdirectory }}/{{ sublink.link }}">
-                {{ sublink.title }}
-              </a>
-              {% endfor %}
-            </div>
-          </li>
-          {% else %}
-          <li class="nav-item {% if page.url == navlink.link %} active {% endif %}" >
-            <a class="nav-link" href="{{ navlink.link }}">{{ navlink.title }}</a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+<!-- Header -->
+<header class="masthead bg-primary text-white text-center">
+  <!-- Webseiten-Logo -->
+  <!-- Kombination aus fa-black-tie, Schriftzug und TU-Logo -->
+  <div class="jumbotron jumbotron-fluid physikon-jumbotron mb-5">
+
+    <!-- Stack two Font Awesome Icons -->
+    <h1 class="h1-header" href="/index">
+    <div class="logo">
+      <img class="mb-4 mx-auto" src="img/logos-physikon/logo-pfeil-gruen.svg" alt="" style="height: 1em; background-color: white">
+    </div>    </h1>
+    <h2 class="gray">11. April 2019 &ndash; TU Dortmund</h2>
+
+  </div>
+
+  <h1 class="mb-0">Jobmesse für Physikstudierende</h1>
+  <hr class="star-light">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-4 mb-2">
+        <p class="font-weight-light" style="font-size: 2rem">
+          Du bist auf der Suche nach einem Job nach dem Studium, einem Praktikum oder Werkstudentenjob?
+        </p>
+      </div>
+
+      <div class="col-12 col-lg-4 mb-2">
+        <p class="font-weight-light" style="font-size: 2rem">
+          Oder du möchtest dich einfach mal informieren, was du mit einem Physik-Studium alles anfangen kannst?
+        </p>
+      </div>
+
+      <div class="col-12 col-lg-4 mb-5">
+        <p class="font-weight-light" style="font-size: 2rem">
+          Du bist auf dem Weg Elektrotechniker/in, Informatiker/in, oder Ingenieur/in zu werden und interessierst dich für unsere Aussteller?
+        </p>
+      </div>
+        <!-- <p class="font-weight-light" style="font-size: 2rem">
+          Macht nichts, alle Unternehmen freuen sich über Messebesucher aus den Nachbar-Fakultäten!
+        </p> -->
+      </div>
+        <p class="font-weight-light mb-5" style="font-size: 3rem">
+          Dann komm vorbei!
+        </p>
+  </div>
+
+<!--
+  <p style="font-size: 2rem">Du bist auf dem Weg Elektrotechniker/in, Informatiker/in oder Ingenieur/in zu werden? </p>
+  <p style="font-size: 2rem">Macht nichts, alle Unternehmen freuen sich über Messebesucher aus den Nachbar-Fakultäten! </p> -->
+
+  <!--TU & Fakultät Physik Logo -->
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <img src="img/logo_weiss.svg" alt="" style="width: 100%; max-width: 350px;">
+    </div>
+    <div class="col-12 col-md-6 mt-3">
+      <img src="img/tud_logo_negativ.svg" alt="" style="width: 100%; max-width: 350px;">
     </div>
   </div>
-</nav>
+
+  <!-- <p style="font-size: 1.5rem">Am 11. April 2019 veranstaltet PeP et al. die erste Jobmesse für Physiker/innen an der TU Dortmund. -->
+  </div>
+</header>
