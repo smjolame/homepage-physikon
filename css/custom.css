@@ -231,6 +231,11 @@ a {
   transform: scale(1.05);
 }
 */
+
+.grid-col {
+    text-align: center;
+}
+
 /* Info Hover*/
 .info-hover:hover {
   transition: all ease 0.25s;

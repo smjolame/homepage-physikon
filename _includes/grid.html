@@ -7,23 +7,15 @@
 
 <hr class="star-dark mb-5">
 
+<div class="row justify-content-center">
 {% for unternehmen in site.data.unternehmen %}
-  {% assign loopindex = forloop.index | modulo: 2 %}
-  {% if loopindex == 1 %}
-      <div class="row text-center">
-    <div class="col-md-6 col-lg-6">
-      <a class="portfolio-item d-block mx-auto" href="{{ unternehmen.url }}" target="_blank">
+  <div class="col-xl-3 col-md-4 col-6 grid-col">
+    <a class="portfolio-item d-block mx-auto" href="{{ unternehmen.url }}" target="_blank">
       <img class="img-fluid mh200 hover-image" src="{{ unternehmen.logo }}" alt="">
     </a>
-    </div>
-  {% else %}
-    <div class="col-md-6 col-lg-6">
-      <a class="portfolio-item d-block mx-auto" href="{{ unternehmen.url }}" target="_blank">
-      <img class="hover-image img-fluid mh200" src="{{ unternehmen.logo }}" alt=""></a>
-    </div>
-    </div>
-  {% endif %}
+  </div>
 {% endfor %}
+</div>
 
 
 </div>
