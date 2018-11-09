@@ -216,25 +216,6 @@ a {
     font-size: 20px !important;
 }
 
-.mh200 {
-  max-height: 125px;
-}
-
-/* Carousel hover*/
-/*.carousel-item active:hover,
-.carousel-item:hover {
-  transition: all ease 0.5s;
-  opacity: .75;
-  transform: scale(1.05);
-}*/
-
-/* Grid hover*/
-/*.hover-image:hover {
-  transition: all ease 0.5s;
-  opacity: .75;
-  transform: scale(1.05);
-}
-*/
 
 .grid-col {
     text-align: center;
