@@ -33,9 +33,11 @@ hr.star-dark {
 
 hr.star-light:after,
 hr.star-dark:after {
-  position: relative;
+  position: absolute;
   content: url(/img/schwingung_only.svg);
-  transform: translateY(-11px);
+  transform: translate(-37px, -37px);
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 hr.star-dark:after {
@@ -189,13 +191,7 @@ header.masthead h2 {
 @media (min-width: 992px) {
   header.masthead {
     padding-bottom: 4rem;
-  }
-  header.masthead h1 {
-    font-size: 4.35em;
-    line-height: 5rem;
-  }
-  header.masthead h2 {
-    font-size: 1.75em;
+    font-size: 2rem;
   }
 }
 
