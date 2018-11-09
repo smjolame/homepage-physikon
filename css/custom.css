@@ -15,8 +15,16 @@ html {
 }
 
 .header-logo {
-  height: 5rem;
+  height: 3.5rem;
+  max-width: 100%;
   margin-bottom: 2rem;
+}
+
+@include media-breakpoint-up(md) {
+  .header-logo {
+    height: 5rem;
+    margin-bottom: 2rem;
+  }
 }
 
 /* Add Pep et. al colors (from styleguide) */
