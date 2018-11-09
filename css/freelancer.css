@@ -34,20 +34,8 @@ hr.star-dark {
 hr.star-light:after,
 hr.star-dark:after {
   position: relative;
-  top: -.8em;
-  display: inline-block;
-  padding-top: 0;
-  padding-bottom: 0.5em;
-  /*padding-bottom: 150px;*/
-  /*content: '\f508';*/
-  /*font-family: "Font Awesome 5 Free";*/
   content: url(/img/schwingung_only.svg);
-
-  /* CSS Magic ... */
-  transform: scale(.9);
-  transform: translateY(-10px);
-  font-weight: 900;
-  font-size: 2em;
+  transform: translateY(-11px);
 }
 
 hr.star-dark:after {
