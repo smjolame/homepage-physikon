@@ -14,6 +14,11 @@ html {
   }
 }
 
+.header-logo {
+  height: 5rem;
+  margin-bottom: 2rem;
+}
+
 /* Add Pep et. al colors (from styleguide) */
 :root {
 	--pep-gray: #565656;
