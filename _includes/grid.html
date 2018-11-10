@@ -5,13 +5,15 @@
 <section class="portfolio" id="portfolio">
 <div class="container mx-auto">
 
-<hr class="star-dark mb-5">
+<hr class="star-dark">
 
 <div class="row justify-content-center">
 {% for unternehmen in site.data.unternehmen %}
   <div class="col-xl-3 col-md-4 col-6 grid-col">
-    <a class="portfolio-item d-block mx-auto" href="{{ unternehmen.url }}" target="_blank">
-      <img class="img-fluid mh200 hover-image" src="{{ unternehmen.logo }}" alt="">
+    <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+      <div class=frame>
+        <img class="logo" src="{{ unternehmen.logo }}" alt="">
+      </div>
     </a>
   </div>
 {% endfor %}

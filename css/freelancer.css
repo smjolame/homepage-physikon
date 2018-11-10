@@ -22,32 +22,22 @@ h6 {
 hr.star-light,
 hr.star-dark {
   max-width: 75%;
-  padding-bottom: 45px;
   text-align: center;
   border: none;
   border-top: solid 0.21rem;
-  margin-top: 2.5rem;
-  margin-bottom: 5.5rem;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
   margin-left: auto;
   margin-right: auto;
 }
 
 hr.star-light:after,
 hr.star-dark:after {
-  position: relative;
-  top: -.8em;
-  display: inline-block;
-  padding: 0 0.55em;
-  /*padding-bottom: 150px;*/
-  /*content: '\f508';*/
-  /*font-family: "Font Awesome 5 Free";*/
+  position: absolute;
   content: url(/img/schwingung_only.svg);
-
-  /* CSS Magic ... */
-  transform: scale(.9);
-  transform: translateY(-10px);
-  font-weight: 900;
-  font-size: 2em;
+  transform: translate(-37px, -37px);
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 hr.star-dark:after {
@@ -185,12 +175,12 @@ section h2 {
 
 header.masthead {
   padding-top: 0pt;
-  padding-bottom: 4rem;
+  padding-bottom: 20px;
+  font-size: 1.0rem;
 }
 
 header.masthead h1 {
-  font-size: 2rem;
-  line-height: 3rem;
+  font-size: 1.75rem;
 }
 
 header.masthead h2 {
@@ -198,21 +188,21 @@ header.masthead h2 {
   font-family: 'Roboto';
 }
 
+@media (min-width: 768px) {
+  header.masthead {
+    font-size: 1.3rem;
+  }
+}
+
 @media (min-width: 992px) {
   header.masthead {
-    padding-bottom: 4rem;
-  }
-  header.masthead h1 {
-    font-size: 4.35em;
-    line-height: 4rem;
-  }
-  header.masthead h2 {
-    font-size: 1.75em;
+    font-size: 1.5rem;
   }
 }
 
 .portfolio {
   margin-bottom: -15px;
+  margin-top: -5rem;
 }
 
 .portfolio .portfolio-item {
