@@ -128,6 +128,7 @@ a {
 
 .carousel-indicators {
   position: relative;
+  margin-top: 3rem;
 }
 
 .carousel-indicators li {
