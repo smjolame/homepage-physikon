@@ -1,5 +1,12 @@
 [
   {
+    "name": "Bosch",
+    "title": "",
+    "caption": "„Unsere Produkte begeistern Menschen, verbessern ihre Lebensqualität und tragen zur Schonung der natürlichen Ressourcen bei.",
+    "logo": "/img/logos/Bosch_Logo_deutsch.jpg",
+    "url": "https://www.bosch.de"
+  },
+  {
     "name": "Cohausz & Florack",
     "title": "You create – we protect",
     "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
@@ -61,7 +68,7 @@
     "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
     "logo": "/img/logos/Logo_wkgt_gross.jpg",
     "url": "https://www.wkgt.com/"
-  },  
+  },
   {
     "name": "W:P",
     "title": "",
