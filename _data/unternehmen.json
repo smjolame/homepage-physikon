@@ -20,4 +20,12 @@
     "logo": "/img/logos/dfine_dunkelblau.png",
     "url": "https://www.d-fine.com/"
   },
+  },
+    {
+    "name": "grandcentrix",
+    "title": "",
+    "caption": "grandcentrix ist qualitätsführender IoT Solution Provider für Smart Products, Internet of Things, Smart Home und Smart Energy.",
+    "logo": "/img/logos/grandcentrix_logo_288x68.jpg",
+    "url": "https://grandcentrix.net/"
+  },
 ]
