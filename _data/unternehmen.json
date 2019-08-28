@@ -12,12 +12,19 @@
    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
    "logo": "/img/logos/C&F.jpg",
    "url": "https://www.cohausz-florack.de"
- },
-   {
-   "name": "grandcentrix",
-   "title": "",
-   "caption": "grandcentrix ist qualitätsführender IoT Solution Provider für Smart Products, Internet of Things, Smart Home und Smart Energy.",
-   "logo": "/img/logos/grandcentrix_logo_288x68.jpg",
-   "url": "https://grandcentrix.net/"
- },
+  },
+  {
+    "name": "d-fine",
+    "title": "d-fine – analytisch. technologisch. quantitativ.",
+    "caption": "",
+    "logo": "/img/logos/dfine_dunkelblau.png",
+    "url": "https://www.d-fine.com/"
+  },
+    {
+    "name": "grandcentrix",
+    "title": "",
+    "caption": "grandcentrix ist qualitätsführender IoT Solution Provider für Smart Products, Internet of Things, Smart Home und Smart Energy.",
+    "logo": "/img/logos/grandcentrix_logo_288x68.jpg",
+    "url": "https://grandcentrix.net/"
+  },
 ]
