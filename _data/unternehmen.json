@@ -27,4 +27,11 @@
     "logo": "/img/logos/grandcentrix_logo_288x68.jpg",
     "url": "https://grandcentrix.net/"
   },
+  {
+    "name": "point8",
+    "title": "Data Science as a Service",
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "logo": "/img/logos/point8.svg",
+    "url": "https://point-8.de/"
+  },
 ]
