@@ -27,7 +27,13 @@
     "logo": "/img/logos/dfine_dunkelblau.png",
     "url": "https://www.d-fine.com/"
   },
-
+  {
+    "name": "IAV",
+    "title": "Wir entwickeln was bewegt",
+    "caption": "IAV – Ihr Partner für Automotive Engineering. Als einer der global führenden Engineering-Partner entwickelt IAV die Mobilität der Zukunft.",
+    "logo": "/img/logos/iav.png",
+    "url": "https://www.iav.com"
+  },
   {
     "name": "EY-Parthenon",
     "title": "We take strategy personally",
@@ -42,6 +48,7 @@
     "logo": "/img/logos/grandcentrix_logo_288x68.jpg",
     "url": "https://grandcentrix.net/"
   },
+  
   {
     "name": "point8",
     "title": "Data Science as a Service",
