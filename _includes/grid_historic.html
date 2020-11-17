@@ -1,0 +1,31 @@
+<!-- grid.html  -->
+
+
+<!-- Grid Section -->
+<section class="portfolio" id="portfolio">
+<div class="container mx-auto">
+
+<hr class="star-dark">
+
+<div class="row justify-content-center">
+{% for year_hash in site.data.historic%}
+  {% assign year = year_hash[1] %}
+  {% assign yearnumber = year_hash[0] | split:"_" %}
+  <div class="container pt-5">
+    <h2 class="h2-fontsize  py-5">Unternehmen {{ yearnumber[1] }}</h2>
+  </div>
+  {% for unternehmen in year %}
+    <div class="col-xl-3 col-md-4 col-6 grid-col">
+      <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
+        <div class=frame>
+          <img class="logo" src="{{ unternehmen.logo }}" alt="">
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+{% endfor %}
+</div>
+
+
+</div>
+</section>

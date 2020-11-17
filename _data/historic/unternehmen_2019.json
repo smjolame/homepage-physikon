@@ -10,14 +10,14 @@
     "name": "Arvato",
     "title": "Where you can bring out your best!",
     "caption": "Neue Perspektiven für Vorausdenker. Wir bieten Dir vielfältige Einstiegs- und Entwicklungsmöglichkeiten sowie anspruchsvolle Aufgaben, an den Du wachsen kannst.",
-    "logo": "/img/logos/arvato-logo-black.svg",
+    "logo": "/img/logos/arvato-black.svg",
     "url": "https://scm.arvato.com/de.html"
   },
   {
     "name": "Bosch",
     "title": "",
     "caption": "„Unsere Produkte begeistern Menschen, verbessern ihre Lebensqualität und tragen zur Schonung der natürlichen Ressourcen bei.",
-    "logo": "/img/logos/Bosch_Logo_deutsch.jpg",
+    "logo": "/img/logos/Bosch.jpg",
     "url": "https://www.bosch.de"
   },
   {
@@ -38,7 +38,7 @@
     "name": "Karriere-Institut",
     "title": "Nehmen Sie Ihre Karriere selbst in die Hand",
     "caption": "Wir unterstützen Sie dabei, die eigene berufliche Zukunft aktiv zu gestalten und damit in eine gute und erfolgreiche berufliche Zukunft zu steuern.",
-    "logo": "/img/logos/Karriereinstitut_Logo_RGB.png",
+    "logo": "/img/logos/Karriereinstitut.png",
     "url": "https://www.daskarriereinstitut.de/"
   },
   {
@@ -87,14 +87,14 @@
     "name": "Warth & Klein Grant Thornton ",
     "title": "",
     "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
-    "logo": "/img/logos/Logo_wkgt_gross.jpg",
+    "logo": "/img/logos/wkgt.jpg",
     "url": "https://www.wkgt.com/"
   },
   {
     "name": "W:P",
     "title": "",
     "caption": "Karriereberatung, Jobvermittelung und Seminare für Studenten, Akademiker, Young Professionals und qualifizierte Fachkräfte.",
-    "logo": "/img/logos/WP_Logo_mittig Claim_RGB.jpg",
+    "logo": "/img/logos/WP.jpg",
     "url": "https://www.wirpersonalberater.de/"
   },
   {
