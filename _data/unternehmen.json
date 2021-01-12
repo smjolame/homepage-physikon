@@ -1,5 +1,12 @@
 [
   {
+    "name": "Amprion",
+    "title": "Das starke Netz für Energie.",
+    "caption": "Ein stabiles Stromnetz ist die Basis für eine sichere Energieversorgung und eine leistungsfähige Volkswirtschaft. Die Verantwortung für das Höchstspannungsnetz in Deutschland liegt bei vier Übertragungsnetzbetreibern. Amprion ist einer von ihnen.",
+    "logo": "/img/logos/Amprion.svg",
+    "url": "https://www.amprion.net"
+  },
+  {
     "name": "Brunel",
     "title": "",
     "caption": "Erstklassige Projektlösungen und vielfältige Karrieremöglichkeiten im Engineerung & IT",
@@ -12,6 +19,13 @@
     "caption": "",
     "logo": "/img/logos/bfv.jpg",
     "url": "https://www.verfassungsschutz.de/de/karriere"
+  },
+  {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de"
   },
   {
     "name": "EY-Parthenon",
@@ -27,4 +41,13 @@
     "logo": "/img/logos/ritzenhoefer_logo_small.png",
     "url": "https://www.ritzenhoefer.com/"
   },
+  {
+    "name": "Warth & Klein Grant Thornton ",
+    "title": "",
+    "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
+    "logo": "/img/logos/wkgt.jpg",
+    "url": "https://www.wkgt.com/"
+  },
+
+
 ]
