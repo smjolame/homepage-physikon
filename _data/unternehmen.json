@@ -21,6 +21,13 @@
     "url": "https://www.verfassungsschutz.de/de/karriere"
   },
   {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de"
+  },
+  {
     "name": "EY-Parthenon",
     "title": "We take strategy personally",
     "caption": "",
@@ -34,4 +41,13 @@
     "logo": "/img/logos/ritzenhoefer_logo_small.png",
     "url": "https://www.ritzenhoefer.com/"
   },
+  {
+    "name": "Warth & Klein Grant Thornton ",
+    "title": "",
+    "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
+    "logo": "/img/logos/wkgt.jpg",
+    "url": "https://www.wkgt.com/"
+  },
+
+
 ]
