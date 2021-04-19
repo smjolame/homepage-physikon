@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Amprion",
+    "title": "Das starke Netz für Energie.",
+    "caption": "Ein stabiles Stromnetz ist die Basis für eine sichere Energieversorgung und eine leistungsfähige Volkswirtschaft. Die Verantwortung für das Höchstspannungsnetz in Deutschland liegt bei vier Übertragungsnetzbetreibern. Amprion ist einer von ihnen.",
+    "logo": "/img/logos/Amprion.svg",
+    "url": "https://www.amprion.net"
+  },
+  {
+    "name": "Brunel",
+    "title": "",
+    "caption": "Erstklassige Projektlösungen und vielfältige Karrieremöglichkeiten im Engineerung & IT",
+    "logo": "/img/logos/Brunel.jpg",
+    "url": "https://www.brunel.de/de-de"
+  },
+  {
+    "name": "Bundesamt für Verfassungschutz",
+    "title": "Im Verborgenen Gutes tun!",
+    "caption": "",
+    "logo": "/img/logos/bfv.jpg",
+    "url": "https://www.verfassungsschutz.de/de/karriere"
+  },
+  {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de"
+  },
+  {
+    "name": "EY-Parthenon",
+    "title": "We take strategy personally",
+    "caption": "",
+    "logo": "/img/logos/EY-Parthenon.jpg",
+    "url": "https://www.ey-parthenon.de/"
+  },
+  {
+    "name": "Infineon",
+    "title": "",
+    "caption": "",
+    "logo": "/img/logos/Infineon.png",
+    "url": "https://www.infineon.com/cms/de/"
+  },
+  {
+    "name": "point8",
+    "title": "Data Science as a Service",
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "logo": "/img/logos/point8.svg",
+    "url": "https://point-8.de/"
+  },
+  {
+    "name": "Ritzenhoefer & Company",
+    "title": "Transformation Leadership",
+    "caption": "Als eine der führenden Strategieberatungen, spezialisiert auf digitale Transformation und Innovationsmanagement, unterstützt Ritzenhoefer & Company Klienten dabei, fundamentale Veränderungen zu treiben, neue Märkte zu erschließen und innovative Geschäftsmodelle über Branchen hinweg zu entwickeln und zu etablieren.",
+    "logo": "/img/logos/ritzenhoefer_logo_small.png",
+    "url": "https://www.ritzenhoefer.com/"
+  },
+  {
+    "name": "thyssenkrupp Bilstein",
+    "title": "Drive the Legend.",
+    "caption": "",
+    "logo": "/img/logos/bilstein.png",
+    "url": "https://www.bilstein.com/de/de/"
+  },
+  {
+    "name": "Warth & Klein Grant Thornton ",
+    "title": "",
+    "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
+    "logo": "/img/logos/wkgt.jpg",
+    "url": "https://www.wkgt.com/"
+  },
+
+
+]
