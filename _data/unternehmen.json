@@ -26,5 +26,12 @@
     "caption": "",
     "logo": "/img/logos/zeb.jpg",
     "url": "https://zeb-consulting.com"
+  },
+  {
+    "name": "TNG",
+    "title": "",
+    "caption": "",
+    "logo": "/img/logos/TNG.png",
+    "url": "https://www.tngtech.com"
   }
 ]
