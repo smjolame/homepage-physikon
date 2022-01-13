@@ -1,5 +1,12 @@
 [
   {
+    "name": "CGI",
+    "title": "Insights you can act on",
+    "caption": "",
+    "logo": "/img/logos/CGI_logo_color_rgb.png",
+    "url": "https://www.cgi.com/de"
+  },
+  {
     "name": "Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen",
     "title": "",
     "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
@@ -49,3 +56,5 @@
     "url": "https://www.fz-juelich.de/portal/DE/Karriere/_node.html;jsessionid=9D575DEE9B05671E75B755E4A8C52EC9"
   }
 ]
+
+  
