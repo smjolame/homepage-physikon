@@ -1,5 +1,12 @@
 [
   {
+    "name": "Amprion",
+    "title": "Amprion verbindet",
+    "caption": "",
+    "logo": "/img/logos/AMPRION_LOGO_RGB_P.png",
+    "url": "https://www.amprion.net/"
+  },
+  {
     "name": "CGI",
     "title": "Insights you can act on",
     "caption": "",
