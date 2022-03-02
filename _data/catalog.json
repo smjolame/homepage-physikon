@@ -1,0 +1,67 @@
+[
+    {
+        "name": "zeb",
+        "ad": "img/catalogue_ads/220211_Recruiting_konaktivia_A5_vw_e1.jpg",
+        "logo": "img/logos/zeb.jpg",
+        "branche": "Strategie- und Managementberatung für Financial Services",
+        "contact": 
+            "Mariela Jansen <br>
+            Recruiting & Employer Brand Managerin<br>
+            mariela.jansen@zeb.de\n Bewerbungen bitte direkt über unser Online-Portal www.zeb-career.com/de/jobs einreichen.",
+        "text": 
+            "zeb ist eine der führenden, auf den Finanzdienstleistungssektor spezialisierten Strategie- und Managementberatungen in Europa.
+            Wir unterstützen Banken, Versicherungen und (Tech-) Dienstleister bei der Entwicklung neuer Geschäftsmodelle, der digitalen Transformation, dem Risikomanagement und dem IT-Management.
+            Für die Themen Strategy & Organization, Finance & Risk sowie IT Consulting sind wir Experten.
+            Der digitale Wandel ist unser Fachgebiet – wir unterstützen Unternehmen dabei, ihren wirtschaftlichen Erfolg auf die sich verändernde Arbeitswelt auszurichten und ihre Wettbewerbsfähigkeit zu stärken.",
+        "branche": "Strategie- und Managementberatung für Financial Services",
+        "employers": 1000,
+        "locations": "Amsterdam, Berlin, Frankfurt a. M., Hamburg, Kopenhagen, Kiew, London, Luxemburg, Mailand, Moskau, München, Münster, Oslo, Stockholm, Warschau, Wien, Zürich",
+        "qualifications": [
+            "Persönlichkeiten, die gerne Neues entdecken und die Zukunft gestalten wollen.",
+            "Erste praktische Erfahrung durch relevante Praktika oder eine Berufsausbildung.",
+            "Du bist neugierig, zuverlässig und teamorientiert.",
+            "Du hast Spaß daran, gemeinsam Gewohntes infrage zu stellen.",
+            "Englisch, idealerweise Deutsch und die jeweilige Landessprache sprichst du fließend."
+        ]
+    },
+    {
+        "name": "elmos",
+        "ad": "img/catalogue_ads/elmos_1.jpg",
+        "logo": "img/logos/elmos-logo_rgb_rz.png",
+        "branche": "Halbleiter",
+        "contact": 
+            "Barbara Schulte <br> 
+            recruitmen@elmos.com",
+        "text": 
+            "Im Jahre 1984 wurde Elmos als eines der ersten Unternehmen im Technologiepark Dortmund gegründet.
+            Heute ist Elmos weltweit an Standorten in Europa, den USA und Asien mit über 1.300 Mitarbeitern vertreten, rund 850 davon am Hauptsitz in Dortmund.
+            Elmos-Halbleiter kommen dort zum Einsatz, wo es auf Innovationen ankommt wie bei den Herausforderungen der zukünftigen Megatrends autonomes Fahren, Elektromobilität / weniger CO2 sowie mehr Sicherheit, Vernetzung und Komfort.
+            Elmos ist schon Weltmarktführer für die Einparkhilfe und die Gestensteuerung im Auto und noch einiges mehr.
+            Gehe mit uns den Weg weiter – bis zum selbstfahrenden Auto!",
+        "employers": "850 am Standort Dortmund, 1.300 weltweit",
+        "locations": "Dortmund Düsseldorf Bruchsal Berlin Dreseden Frankfurt / Oder",
+        "qualifications": "keine",
+    },
+    {
+        "name": "ritzenhoefer",
+        "ad": "img/catalogue_ads/2021_B_greaterthanaverage_r&c.pdf",
+        "logo": "img/logos/ritzenhoefer_logo_color_DBR.jpg",
+        "branche": "Unternehmensberatung",
+        "contact": 
+            "Gudrun Paulsen <br> 
+            recruiting@ritzenhoefer.com",
+        "text": 
+            "Transformation Leadership, das bedeutet, Unternehmen bei großen und komplexen Transformationen erfolgreich zu beraten und strategisch zu begleiten: von der Vision bis zur Umsetzung hin.
+            Auf diesem Weg liegen spannende Herausforderungen, die eine strukturierte und analytische Denkweise erfordern.
+            Deswegen freuen wir uns, insbesondere Studierende der Physik und anderer mathematisch-naturwissenschaftlicher Fachrichtungen für die Welt der Beratung zu begeistern.
+            Denn unser Erfolgsrezept sind hochqualifizierte und motivierte Mitarbeiter:innen in kleinen, interdisziplinären Teams.",
+        "employers": 90,
+        "locations": "Düsseldorf, Berlin, Bonn, Stuttgart",
+        "qualifications": [
+            "Außergewöhnliche Persönlichkeit",
+            "Hohe Leistungsbereitschaft",
+            "Freude an der Arbeit im Team",
+        ],
+    },
+
+]
