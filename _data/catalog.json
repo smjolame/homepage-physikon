@@ -44,7 +44,7 @@
     },
     {
         "name": "ritzenhoefer",
-        "ad": "img/catalogue_ads/ritzenhoefer_ad.png",
+        "ad": "img/catalogue_ads/ritzenhoefer_ad.jpg",
         "logo": "img/logos/ritzenhoefer_logo_color_DBR.jpg",
         "branche": "Unternehmensberatung",
         "contact": 
@@ -90,7 +90,58 @@
             "Lust, dich weiterzuentwickeln",
             "Teamplayer"
         ]
-    }
+    },
+    {
+        "name": "Deloitte",
+        "ad": "img/catalogue_ads/deloitte_ad.PNG",
+        "logo": "img/logos/DEL_PRI_CMYK.jpg",
+        "branche": "Audit & Assurance, Risk Advisory, Tax & Legal, Financial Advisory, Consulting",
+        "contact": 
+            "career@deloitte.de <br> 
+            Team Recriuting <br>
+            Telefon: +49 211 8772 4111",
+        "text": 
+            "Making an impact that matters.
+            Deloitte konzentriert sich als eine der führenden Professional Services Firms auf mehr als nur die klassischen Aufgaben einer Prüfungs- und Beratungsgesellschaft.
+            Als Vorreiter entwickeln wir innovative Lösungen für unsere Kunden und eröffnen Chancen für unsere Talente.
+            Unsere Projektteams sind interdisziplinär und international zusammengestellt.
+            Ganz gleich, ob BWL oder MINT - Diversity fördert Innovation durch unterschiedliche Sichtweisen und Charaktere.",
+        "employers": "rund 9.000 Beschäftigte in Deutschlang und über 345.000 international",
+        "locations": "16 Standorte in Deutschland <br> weltweit in über 150 Ländern vertreten",
+        "qualifications": [
+            "sehr gute Studienleistungen",
+            "relevante Praktika",
+            "gute Englischkenntnisse",
+            "idealerweise Auslandserfahrung",
+            "analytisches Denkvermögen",
+            "ausgeprägte Team- und Kommunikationsfähigkeiten",
+            "Reisebereitschaft"
+        ]
+    },
+    {
+        "name": "Forschungszentrum Jülich",
+        "ad": "img/catalogue_ads/FZJuelich_ad.jpg",
+        "logo": "img/logos/FZJ.jpg",
+        "branche": "Wissenschaft & Forschung",
+        "contact": 
+            "Alissa Aarts <br> 
+            Personalentwicklung und Recruiting <br>
+            a.aarts@fz-juelich.de",
+        "text": 
+            "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich.
+            Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns großen Herausforderungen unserer Zeit: Wie können uns die Energiewende und eine Begrenzung des Klimawandels gelingen?
+            Welche Herausforderungen ergeben sich durch die zunehmende Digitalisierung der Gesellschaft?
+            Wird es uns gelingen, das menschliche Gehirn zu verstehen?
+            Und wie können wir den Wandel hin zu einem biobasierten und nachhaltigen Wirtschaften ermöglichen?
+            Bei uns arbeiten Sie gemeinsam mit über 7.000 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und leisten einen Beitrag zur Lösung gesellschaftlicher Fragestellungen.
+            Gestalten Sie den Wandel mit uns!",
+        "employers": "7000",
+        "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+        "qualifications": [
+            "Neugier an der Lösung herausfordernder Fragestellungen",
+            "Interesse an der Arbeit in internationalen und interdisziplinären Teams",
+        ]
+    },
 
 
 ]

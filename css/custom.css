@@ -341,6 +341,7 @@ a {
   grid-area: ad;
   padding: 0px;
   margin-left: 20px;
+  align-self: end;
 }
 
 .cat-contact {
