@@ -2,15 +2,15 @@
 <section class="container text-center">
 
     <!-- Carousel Header -->
-    <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2022</h2>
+    <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 20222</h2>
     <hr class="star-dark">
     
     <!-- Carousel -->
-    <div id="{{ include.name }}" class="carousel slide" data-ride="carousel">
+    <div id="{{ include.name }}" class="carousel" >
       <div class="carousel-inner">
     
         {% for unternehmen in site.data.catalog %}
-        <div class="carousel-item {% if forloop.first == true %} active {% endif %}">
+        <div class="carousel-item">
             <div class="container-grid">
 
 
@@ -63,7 +63,7 @@
         </div>
         {% endfor %}
     
-        <ol class="carousel-indicators">
+        <!-- <ol class="carousel-indicators">
           {% for catalog in include.data %}
           <li
             data-target="#{{ include.name }}"
@@ -71,7 +71,7 @@
             class="{% if forloop.first == true %}active{% endif %}">
           </li>
           {% endfor %}
-        </ol>
+        </ol> -->
       </div>
     
       <a class="carousel-control-prev" href="#{{ include.name }}" role="button" data-slide="prev">
