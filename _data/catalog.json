@@ -7,7 +7,7 @@
         "contact": 
             "Mariela Jansen <br>
             Recruiting & Employer Brand Managerin<br>
-            mariela.jansen@zeb.de\n Bewerbungen bitte direkt über unser Online-Portal www.zeb-career.com/de/jobs einreichen.",
+            mariela.jansen@zeb.de <br> Bewerbungen bitte direkt über unser Online-Portal www.zeb-career.com/de/jobs einreichen.",
         "text": 
             "zeb ist eine der führenden, auf den Finanzdienstleistungssektor spezialisierten Strategie- und Managementberatungen in Europa.
             Wir unterstützen Banken, Versicherungen und (Tech-) Dienstleister bei der Entwicklung neuer Geschäftsmodelle, der digitalen Transformation, dem Risikomanagement und dem IT-Management.
@@ -44,7 +44,7 @@
     },
     {
         "name": "ritzenhoefer",
-        "ad": "img/catalogue_ads/2021_B_greaterthanaverage_r&c.pdf",
+        "ad": "img/catalogue_ads/ritzenhoefer_ad.png",
         "logo": "img/logos/ritzenhoefer_logo_color_DBR.jpg",
         "branche": "Unternehmensberatung",
         "contact": 
@@ -63,5 +63,34 @@
             "Freude an der Arbeit im Team",
         ],
     },
+    {
+        "name": "RTL",
+        "ad": "img/catalogue_ads/Anzeigenbild_RTL.png",
+        "logo": "img/logos/RTL_Logo.png",
+        "branche": "Medien",
+        "contact": 
+            "karriere@rtl.de <br> 
+            Bewerbungen bitte über unser Bewerbungsportal einreichen",
+        "text": 
+            "Wir gestalten die mediale Zukunft.
+            In unserem zentralen Bereich für Daten von RTL Deutschland, RTL Data, bündeln wir die Expertise rund um das Thema Daten und Daten-Technologien und treiben unternehmensintern sowie marktübergreifend den digitalen Wandel in der Medienbranche.
+            Gemeinsam sind wir Experten für Daten und Forschung und bauen datengetriebene Produkte, Entscheidungshilfen und Prozesse zum klaren Wettbewerbsvorteil aus.
+            So entwickeln wir Datenprodukte, um Nutzer:innen zur richtigen Zeit die passenden Inhalte zu empfehlen und somit das Engagement zu maximieren.
+            Hierzu setzen wir massiv auf Verfahren des maschinellen Lernens, um unsere Inhalte mittels Natural Language Processing, Audio-, Video- und Bildanalyse zu verstehen und damit optimale Such-, Empfehlungs- oder Personalisierungsdienste zu entwickeln.
+            Wir entwickeln datengetriebene Lösungen mithilfe von Analytics, Machine Learning und Artificial Intelligence und bauen so unseren Wettbewerbsvorteil im deutschen Markt immer weiter aus.
+            Durch die besondere Kombination des Geschäftsmodells, das sich auf die Säulen „Publishing“ und „Advertising“ stützt, entstehen unzählige Anwendungsmöglichkeiten für datengetriebene Lösungen in den Gebieten Personalisierung, Nutzervorhersagen, Digital Advertising, AdTech und vieles mehr.
+            Mit deiner Leidenschaft für Daten, neue Technologien und die Konzeption und Entwicklung von neuen datengetriebenen Lösungen passt du perfekt zu RTL Deutschland.",
+        "employers": 7500,
+        "locations": "17 deutsche Standorte <br>
+            Hauptstandort: RTL Deutschland, Picassoplatz 1, 50679 Köln",
+        "qualifications": [
+            "Leidenschaft für Daten",
+            "Lust, Themen anzugehen, statt nur darüber zu reden",
+            "Motivation, neue Ideen reinzugeben",
+            "Lust, dich weiterzuentwickeln",
+            "Teamplayer"
+        ]
+    }
+
 
 ]
