@@ -91,10 +91,18 @@
   "url": "https://www.lehrer-werden.nrw/was-bringst-du-mit/seiteneinsteiger"
   },
   {
+
     "name": "EY-Parthenon",
     "title": "We take strategy personally",
     "caption": "",
     "logo": "/img/logos/EY-Parthenon.jpg",
     "url": "https://www.ey-parthenon.de/"
-  }
+  },
+  {
+    "name": "Deloitte",
+    "title": "",
+    "caption": "",
+    "logo": "/img/logos/DEL_PRI_CMYK.jpg",
+    "url": "http://www.deloitte.com/careers"
+    }
 ]
