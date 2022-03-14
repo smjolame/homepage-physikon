@@ -91,12 +91,25 @@
   "url": "https://www.lehrer-werden.nrw/was-bringst-du-mit/seiteneinsteiger"
   },
   {
+
+    "name": "EY-Parthenon",
+    "title": "We take strategy personally",
+    "caption": "",
+    "logo": "/img/logos/EY-Parthenon.jpg",
+    "url": "https://www.ey.com/de_de/strategy"
+  },
+  {
     "name": "Deloitte",
     "title": "",
     "caption": "",
     "logo": "/img/logos/DEL_PRI_CMYK.jpg",
     "url": "http://www.deloitte.com/careers"
-    }
+  },
+  {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "",
+    "logo": "/img/logos/COHAUSZ_FLORACK.jpg",
+    "url": "https://www.cohausz-florack.de"
+  }
 ]
-
-  
