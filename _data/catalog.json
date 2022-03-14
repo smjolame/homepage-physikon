@@ -2,6 +2,7 @@
     {
         "name": "zeb",
         "ad": "img/catalogue_ads/220211_Recruiting_konaktivia_A5_vw_e1.jpg",
+        "ad_format": "portrait",
         "logo": "img/logos/zeb.jpg",
         "branche": "Strategie- und Managementberatung für Financial Services",
         "contact": 
@@ -27,6 +28,7 @@
     {
         "name": "elmos",
         "ad": "img/catalogue_ads/elmos_1.jpg",
+        "ad_format": "landscape",
         "logo": "img/logos/elmos-logo_rgb_rz.png",
         "branche": "Halbleiter",
         "contact": 
@@ -45,6 +47,7 @@
     {
         "name": "ritzenhoefer",
         "ad": "img/catalogue_ads/ritzenhoefer_ad.jpg",
+        "ad_format": "portrait",
         "logo": "img/logos/ritzenhoefer_logo_color_DBR.jpg",
         "branche": "Unternehmensberatung",
         "contact": 
@@ -56,7 +59,7 @@
             Deshalb freuen wir uns, insbesondere Studierende der Physik und anderer mathematisch-naturwissenschaftlicher Fachrichtungen für die Welt der Beratung zu begeistern.
             Mit flachen Hierarchien, unserem Leitsatz „Leading from any chair“ und leidenschaftlichem Einsatz kombinieren wir Start-up-Atmosphäre und ein ergebnisgetriebenes Mindset.
             Wir arbeiten schnell, mit höchstem Anspruch und maximaler Freiheit für deinen persönlichen Weg.
-            Hochqualifizierte und motivierte Mitarbeiter:innen in kleinen, interdisziplinären Teams sind dabei unser Erfolgsrezept: Erkunde auch du bei uns, was du kannst, was du lernen willst und wo deine Grenzen sind.",
+            Hochqualifizierte und motivierte Mitarbeiter:innen in kleinen, interdisziplinären Teams sind dabei unser Erfolgsrezept: Erkunde auch du bei uns, was du kannst, was du lernen willst und wo deine Grenzen sind. ",
         "employers": 90,
         "locations": "Düsseldorf, Berlin, Bonn, Stuttgart",
         "qualifications": [
@@ -68,6 +71,7 @@
     {
         "name": "RTL",
         "ad": "img/catalogue_ads/Anzeigenbild_RTL.png",
+        "ad_format": "landscape",
         "logo": "img/logos/RTL_Logo.png",
         "branche": "Medien",
         "contact": 
@@ -96,6 +100,7 @@
     {
         "name": "Deloitte",
         "ad": "img/catalogue_ads/deloitte_ad.PNG",
+        "ad_format": "portrait",
         "logo": "img/logos/DEL_PRI_CMYK.jpg",
         "branche": "Audit & Assurance, Risk Advisory, Tax & Legal, Financial Advisory, Consulting",
         "contact": 
@@ -123,6 +128,7 @@
     {
         "name": "Forschungszentrum Jülich",
         "ad": "img/catalogue_ads/FZJuelich_ad.jpg",
+        "ad_format": "landscape",
         "logo": "img/logos/FZJ.jpg",
         "branche": "Wissenschaft & Forschung",
         "contact": 
@@ -147,6 +153,7 @@
     {
         "name": "Deichmann",
         "ad": "img/catalogue_ads/Deichmann_ad.jpg",
+        "ad_format": "landscape",
         "logo": "img/logos/Deichmann.png",
         "branche": "Einzelhandel",
         "contact": 

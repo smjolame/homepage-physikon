@@ -293,7 +293,40 @@ a {
   clear: both;
 }
 
- .container-grid {
+ .container-grid-landscape {
+  width: 100%;
+  height: 100%;
+
+  margin-right: auto;
+  margin-left: auto;
+  display: grid;
+
+  grid-template-columns: 1.2fr 2fr;
+  grid-template-rows: 0.3fr 0.3fr 0.2fr 0.2fr 0.3fr 0.5fr;
+  grid-template-areas: 
+    "logo ad"
+    "contact ad"
+    "branche ad"
+    "number text_ad"
+    "location text_ad"
+    "qualification text_ad";
+
+  gap: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: medium;
+  /* border: 1px solid #5b8fcb; */
+ 
+
+}
+
+.container-grid-landscape div {
+  padding: 15px;
+  /* border: 1px solid #5b8fcb; */
+  text-align: left;
+}
+
+.container-grid-portrait {
   width: 100%;
   height: 100%;
 
@@ -320,7 +353,7 @@ a {
 
 }
 
-.container-grid div {
+.container-grid-portrait div {
   padding: 15px;
   /* border: 1px solid #5b8fcb; */
   text-align: left;
@@ -328,6 +361,8 @@ a {
 
 .cat-logo {
   grid-area: logo;
+  max-height: 12em;
+  margin: 0 auto;
 }
 
 .cat-text {
