@@ -65,6 +65,12 @@ body {
   background-color: var(--pep-gray) !important;
 }
 
+a.bg-secondary:hover, a.bg-secondary:focus,
+button.bg-secondary:hover,
+button.bg-secondary:focus {
+  background-color: var(--pep-gray) !important;
+}
+
 /* choose primary, secondary text-colors */
 .text-primary {
   color: var(--pep-yellow) !important;
