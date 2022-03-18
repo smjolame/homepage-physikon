@@ -411,7 +411,23 @@ a {
 }
 
 @media only screen and (max-width:700px) {
-  .container-grid{
+  .container-grid-portrait{
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.2fr 1fr 1fr 0.2fr 0.2fr 0.2fr 0.2fr 0.3fr;
+    grid-template-areas: 
+      "logo"
+      "ad"
+      "text_ad"
+      "location"
+      "number"
+      "branche"
+      "qualification"
+      "contact"
+  }
+}
+
+@media only screen and (max-width:700px) {
+  .container-grid-landscape{
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 1fr 1fr 0.2fr 0.2fr 0.2fr 0.2fr 0.3fr;
     grid-template-areas: 
