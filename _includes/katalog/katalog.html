@@ -2,14 +2,20 @@
 <section class="container">
 
   <!-- Carousel Header -->
-  <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2022</h2>
+  <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen 2023</h2>
   <hr class="star-dark">
 
+  <p style="font-size: 1.2rem">
+    Hier findet ihr ab dem Frühjahr 2023 die Unternehmen, die sich euch bei der PhysiKon vorstellen wollen.
+    Seid dabei!
+  </p>
+
+  {% comment %}
   <!-- Carousel -->
   <div id="{{ include.name }}" class="carousel slide" data-ride="carousel" data-interval="false">
     <div class="carousel-inner">
 
-      {% for unternehmen in site.data.catalog %}
+      {% for unternehmen in site.data.unternehmen_2023 %}
       <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
         <div class="container pt-5">
           <div class="row">
@@ -66,7 +72,7 @@
 
       <div class="container pt-5">
         <ol class="carousel-indicators">
-          {% for catalog in include.data %}
+          {% for unternehmen in site.data.unternehmen_2023 %}
           <li data-target="#{{ include.name }}" data-slide-to="{{ forloop.index0 }}"
             class="{% if forloop.first == true %}active{% endif %}">
           </li>
@@ -85,4 +91,7 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
+
+  {% endcomment %}
+
 </section>
