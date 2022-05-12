@@ -70,6 +70,11 @@ html {
   button.bg-secondary:focus {
   background-color: var(--pep-gray) !important;
   }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-image: none;
+  }
   
   /* choose primary, secondary text-colors */
   .text-primary {
@@ -119,13 +124,44 @@ html {
   opacity: 0.5;
   }
   
+
+  .rcorners {
+    border-radius: 25px;
+  }
+
   .carousel-control-prev {
-  left: 17%;
+    left: 14%;
+    }
+    .carousel-control-next {
+    right: 8%;
+    }
+
+  @media screen and (max-width: 1370px){
+  .carousel-control-prev {
+  left: 9%;
   }
-  
   .carousel-control-next {
-  right: 14%;
+  right: 3%;
   }
+}
+
+@media screen and (max-width: 767px){
+  .carousel-control-prev {
+  left: 20%;
+  }
+  .carousel-control-next {
+  right: 5%;
+  }
+}
+
+@media screen and (max-width: 520px){
+  .carousel-control-prev {
+  left: 5%;
+  }
+  .carousel-control-next {
+  right: 6%;
+  }
+}
   
   .frame {
   height: 140px;

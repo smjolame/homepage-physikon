@@ -17,58 +17,59 @@
 
       {% for unternehmen in site.data.unternehmen_2023 %}
       <div class="carousel-item {% if forloop.first == true %}active{% endif %}">
-        <div class="container pt-5">
-          <div class="row">
-            <div class="col">
-              <div class="row pt-4 py-4 justify-content-center">
-                <img src={{unternehmen.logo}} alt="" style="width:70%;height:70%;margin:auto">
+        <div class="container pt-2">
+          <div class="row justify-content-center">
+            <div class="col-12 col-xl-8 col-lg-8 col-md-11 col-sm-12">
+              <div class="row pt-3 pb-3 justify-content-center">
+                <img src={{unternehmen.logo}} alt="" style="width:60%;margin:auto">
               </div>
-              <div class="row bkg-grey">
-                <div class="container pt-5">
-                  <h4> Kontakt </h4>
-                  <p style="font-size: 1.4rem">
+              <div class="container pt-2">
+                <p style="font-size: 1.2rem">
+                  {{unternehmen.text}}
+                </p>
+              </div>
+              <div class="row pt-3 py-5 justify-content-center">
+                <img src={{unternehmen.ad}} alt="" style="width:90%;">
+              </div>
+            </div>
+            <div class="col-12 col-xl-4 col-lg-4">
+              <div class="row pt-3 py-3" style="row-gap: 20px;">
+                <div class="container pt-2 bg-secondary text-white rcorners">
+                  <h5> Kontakt </h5>
+                  <p style="font-size: 1.2rem">
                     {{unternehmen.contact}}
                   </p>
                 </div>
-                <div class="container pt-5">
-                  <h4> Branche </h4>
-                  <p style="font-size: 1.4rem">
+                <div class="container pt-2 bg-secondary text-white rcorners">
+                  <h5> Branche </h5>
+                  <p style="font-size: 1.2rem">
                     {{unternehmen.branche}}
                   </p>
                 </div>
-                <div class="container pt-5">
-                  <h4> Anzahl Mitarbeitende </h4>
-                  <p style="font-size: 1.4rem">
+                <div class="container pt-2 bg-secondary text-white rcorners">
+                  <h5> Anzahl Mitarbeitende </h5>
+                  <p style="font-size: 1.2rem">
                     {{unternehmen.employers}}
                   </p>
                 </div>
-                <div class="container pt-5">
-                  <h4> Gewünschte Zusatzqualifikationen </h4>
+                <div class="container pt-2 bg-secondary text-white rcorners">
+                  <h5> Gewünschte Zusatzqualifikationen </h5>
                   <ul class="a">
                     {% for quali in unternehmen.qualifications %}
 
                     <li>
-                      <p style="font-size: 1.4rem">{{quali}} </p>
+                      <p style="font-size: 1.2rem">{{quali}} </p>
                     </li>
                     {% endfor %}
                   </ul>
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="container pt-5">
-                <img src={{unternehmen.ad}} alt="" style="width:100%;">
-              </div>
-              <div class="container pt-5">
-                <p style="font-size: 1.4rem">
-                  {{unternehmen.text}}
-                </p>
-              </div>
-            </div>
           </div>
         </div>
       </div>
       {% endfor %}
+
 
       <div class="container pt-5">
         <ol class="carousel-indicators">
