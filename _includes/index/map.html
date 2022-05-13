@@ -1,0 +1,54 @@
+<!-- OpenLayers -->
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.2.0/css/ol.css" type="text/css">
+<div id="map" class="map-iframe"></div>
+
+<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.2.0/build/ol.js"></script>
+<script type="text/javascript">
+  var campusTreff = ol.proj.fromLonLat([7.418560, 51.492407]);
+
+  var map = new ol.Map({
+    interactions: ol.interaction.defaults({mouseWheelZoom: false}),
+    target: 'map',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      })
+    ],
+    view: new ol.View({
+      center: campusTreff,
+      zoom: 17,
+    })
+  });
+
+  var marker = new ol.Feature(new ol.geom.Point(campusTreff));
+
+  var markerStyle = new ol.style.Style({
+    image: new ol.style.Icon({
+      anchor: [0.5, 1.0],
+      scale: 0.075,
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'fraction',
+      src: 'img/location.svg',
+    }),
+    text: new ol.style.Text({
+      text: 'Campus Treff',
+      fill: new ol.style.Fill({color: '#7ac143'}),
+      stroke: new ol.style.Stroke({color: '#fff', width: 3}),
+      font: 'bold 1rem Fira Sans, sans-serif',
+      offsetY: 15,
+    }),
+  });
+
+  marker.setStyle(markerStyle);
+
+  var vectorSource = new ol.source.Vector({
+    features: [marker]
+  });
+
+  var markerVectorLayer = new ol.layer.Vector({
+    source: vectorSource,
+  });
+
+  map.addLayer(markerVectorLayer);
+</script>

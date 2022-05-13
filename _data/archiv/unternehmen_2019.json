@@ -1,0 +1,107 @@
+[
+    {
+    "name": "Amprion",
+    "title": "Das starke Netz für Energie.",
+    "caption": "Ein stabiles Stromnetz ist die Basis für eine sichere Energieversorgung und eine leistungsfähige Volkswirtschaft. Die Verantwortung für das Höchstspannungsnetz in Deutschland liegt bei vier Übertragungsnetzbetreibern. Amprion ist einer von ihnen.",
+    "logo": "/img/logos/Amprion.svg",
+    "url": "https://www.amprion.net"
+  },
+  {
+    "name": "Arvato",
+    "title": "Where you can bring out your best!",
+    "caption": "Neue Perspektiven für Vorausdenker. Wir bieten Dir vielfältige Einstiegs- und Entwicklungsmöglichkeiten sowie anspruchsvolle Aufgaben, an den Du wachsen kannst.",
+    "logo": "/img/logos/arvato-black.svg",
+    "url": "https://scm.arvato.com/de.html"
+  },
+  {
+    "name": "Bosch",
+    "title": "",
+    "caption": "„Unsere Produkte begeistern Menschen, verbessern ihre Lebensqualität und tragen zur Schonung der natürlichen Ressourcen bei.",
+    "logo": "/img/logos/Bosch.jpg",
+    "url": "https://www.bosch.de"
+  },
+  {
+    "name": "Cohausz & Florack",
+    "title": "You create – we protect",
+    "caption": "Ideen stecken in jedem klugen Kopf. Und sind bei uns in guten Händen. Wir helfen Ihnen dabei, Ihre Ideen zu schützen.",
+    "logo": "/img/logos/C&F.jpg",
+    "url": "https://www.cohausz-florack.de"
+  },
+  {
+    "name": "IAV",
+    "title": "Wir entwickeln was bewegt",
+    "caption": "IAV – Ihr Partner für Automotive Engineering. Als einer der global führenden Engineering-Partner entwickelt IAV die Mobilität der Zukunft.",
+    "logo": "/img/logos/iav.png",
+    "url": "https://www.iav.com"
+  },
+  {
+    "name": "Karriere-Institut",
+    "title": "Nehmen Sie Ihre Karriere selbst in die Hand",
+    "caption": "Wir unterstützen Sie dabei, die eigene berufliche Zukunft aktiv zu gestalten und damit in eine gute und erfolgreiche berufliche Zukunft zu steuern.",
+    "logo": "/img/logos/Karriereinstitut.png",
+    "url": "https://www.daskarriereinstitut.de/"
+  },
+  {
+    "name": "mitNORM",
+    "title": "Eine nachhaltige Perspektive ",
+    "caption": "Wir bieten Ihnen ein spannendes und zukunftsweisendes Umfeld sowie hervorragende Aus-und Weiterbildungsmöglichkeiten.",
+    "logo": "/img/logos/mitnorm.svg",
+    "url": "https://mitnorm.de/"
+  },
+  {
+    "name": "point8",
+    "title": "Data Science as a Service",
+    "caption": "Wir bringen Big Data Know-how vom CERN in die Wirtschaft und unterstützen Unternehmen und Organisationen mit Datenanalyse, Machine Learning und Simulationen.",
+    "logo": "/img/logos/point8.svg",
+    "url": "https://point-8.de/"
+  },
+  {
+    "name": "Ritzenhoefer & Company",
+    "title": "Transformation Leadership",
+    "caption": "Ritzenhoefer & Company ist eine strategische Topmanagement-Beratung, die sich darauf spezialisiert hat, komplexe Business- und IT-Transformationen erfolgreich zu gestalten und Unternehmen in Veränderungsprozessen zu beraten - von der Vision bis zur Umsetzung hin.",
+    "logo": "/img/logos/ritzenhoefer.png",
+    "url": "https://www.ritzenhoefer.com/"
+  },
+  {
+    "name": "SCISYS",
+    "title": "Die SCISYS-Unternehmensgruppe ist ein führender Anbieter von IT-Services.",
+    "caption": "Wir entwickeln zuverlässige und praxisnahe Lösungen und liefern unterstützende Dienstleistungen, die echte Geschäftsvorteile bedeuten.",
+    "logo": "/img/logos/SCISYS.jpg",
+    "url": "https://www.scisys.de/"
+  },
+  {
+    "name": "Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen",
+    "title": "",
+    "caption": "Deine Berufung ist es doch, Lehrkraft zu sein? Du hast aber kein Lehramtsstudium absolviert? Wir verraten dir, wie du als Seiteneinsteiger deinen Traumberuf trotzdem erreichst.",
+    "logo": "/img/logos/Ministerium_NRW.jpg",
+    "url": "https://www.lehrer-werden.nrw/was-bringst-du-mit/seiteneinsteiger"
+  },
+  {
+    "name": "VDI",
+    "title": "Wir geben Impulse und unterstützen innovative Forschung und Entwicklung.",
+    "caption": "Unser Ziel ist es, die technologische und innovatorische Leistungsfähigkeit von Wirtschaft, Wissenschaft und Forschung zu steigern.",
+    "logo": "/img/logos/VDI_TZ.jpg",
+    "url": "https://www.vditz.de"
+  },
+  {
+    "name": "Warth & Klein Grant Thornton ",
+    "title": "",
+    "caption": "Warth & Klein Grant Thornton gehört zu den führenden mittelständischen Wirtschaftsprüfungsgesellschaften in Deutschland.",
+    "logo": "/img/logos/wkgt.jpg",
+    "url": "https://www.wkgt.com/"
+  },
+  {
+    "name": "W:P",
+    "title": "",
+    "caption": "Karriereberatung, Jobvermittelung und Seminare für Studenten, Akademiker, Young Professionals und qualifizierte Fachkräfte.",
+    "logo": "/img/logos/WP.jpg",
+    "url": "https://www.wirpersonalberater.de/"
+  },
+  {
+    "name": "ZEB",
+    "title": "Wir sind ZEB. Wir haben Lust auf Ihren Erfolg.",
+    "caption": "Als Europas führende Strategie- und Managementberatung für Finanzdienstleister entwickeln wir an unserem Hauptsitz in Münster auch seit vielen Jahren erfolgreich finanzmathematisch und thematisch hoch anspruchsvolle Applikationen für Finanzdienstleister.",
+    "logo": "/img/logos/zeb.jpg",
+    "url": "https://www.zeb-consulting.com"
+  }
+]

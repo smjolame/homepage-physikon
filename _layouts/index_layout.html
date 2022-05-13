@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="de">
-  {% include head.html %}
-  <body>
-    {% include navbar.html %}
-    {% include header.html %}
-    {% include grid.html %}
-    {% comment %}
-    {% include carousel.html %}
-    {% endcomment %}
-    {% include information.html %}
-    {% include organisation.html %}
-    {% include scripts.html %}
-  </body>
+{% include head.html %}
+
+<body>
+  {% include navbar.html %}
+  {% include index/header.html %}
+  <!-- Nächstes Jahr wieder einfügen: grid.html oder carousel.html, information.html -->
+  {% comment %}
+  {% include index/unternehmen_grid.html %}
+  {% include index/unternehmen_carousel.html name="carousel" %}
+  {% include index/information.html %}
+  {% endcomment %}
+  {% include index/organisation.html %}
+  {% include scripts.html %}
+</body>
+
 </html>
