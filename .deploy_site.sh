@@ -2,7 +2,7 @@
 set -e # exit with nonzero exit code if anything fails
 
 # clear and re-create the out directory
-if [[ $TRAVIS_BRANCH == 'master' ]] && [[ $TRAVIS_PULL_REQUEST = false ]]
+if [[ $TRAVIS_BRANCH == 'main' ]] && [[ $TRAVIS_PULL_REQUEST = false ]]
 then
 	# add remote ssh-key to key-storage
 	# first add remote host to known hosts
@@ -22,5 +22,5 @@ then
 	# upload site
 	rsync -rq --delete --exclude=".*" ~/out/ $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH
 else
-	echo "NOT ON MASTER BRANCH, WILL NOT DEPLOY SITE"
+	echo "NOT ON MAIN BRANCH, WILL NOT DEPLOY SITE"
 fi
