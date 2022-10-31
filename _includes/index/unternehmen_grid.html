@@ -1,10 +1,11 @@
-<section class="portfolio" id="portfolio">
+%<section class="portfolio" id="portfolio">
   <div class="container mx-auto">
-
+    
+    <h2 class="text-center text-gray text-uppercase text-secondary mb-0 h2-fontsize">Unternehmen</h2>
     <hr class="star-dark">
 
     <div class="row justify-content-center">
-      {% for unternehmen in site.data.archiv.unternehmen_2022 %}
+      {% for unternehmen in site.data.archiv.unternehmen_2023 %}
       <div class="col-xl-3 col-md-4 col-6 grid-col">
         <a class="mx-auto" href="{{ unternehmen.url }}" target="_blank">
           <div class=frame>
@@ -16,4 +17,4 @@
     </div>
 
   </div>
-</section>
+%</section>
