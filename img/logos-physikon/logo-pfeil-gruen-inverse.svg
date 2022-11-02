@@ -21,7 +21,7 @@
       <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path2602" />
     </marker>
     <marker
@@ -32,7 +32,7 @@
        orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path2538" />
     </marker>
@@ -45,7 +45,7 @@
       <path
          transform="matrix(-0.3,0,0,-0.3,0.69,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path881" />
     </marker>
     <marker
@@ -56,7 +56,7 @@
        orient="auto">
       <path
          transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path863" />
     </marker>
@@ -69,7 +69,7 @@
       <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path1226" />
     </marker>
     <marker
@@ -81,7 +81,7 @@
       <path
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path869" />
     </marker>
     <marker
@@ -92,7 +92,7 @@
        orient="auto">
       <path
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path857" />
     </marker>
@@ -117,7 +117,7 @@
       <path
          transform="matrix(1.1,0,0,1.1,1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#56565f;fill-opacity:1;fill-rule:evenodd;stroke:#56565f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         style="fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:#565656;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path866" />
     </marker>
     <clipPath
@@ -151,10 +151,10 @@
     <path
        id="rect919"
        d="m 103.98098,93.536453 h 47.54245 v 11.933767 h -47.54245 z"
-       style="opacity:1;fill:#56565f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614584;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:100;stroke-opacity:1" />
+       style="opacity:1;fill:#565656;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06614584;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:100;stroke-opacity:1" />
     <g
        id="text821"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:6.61458302px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#56565f;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:6.61458302px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#565656;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        aria-label="PhysiKon">
       <path
          id="path42"
@@ -192,7 +192,7 @@
     <path
        id="rect2512"
        d="m 129.04289,94.113297 h 2.33861 v 1.917658 h -2.33861 z"
-       style="opacity:1;fill:#56565f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:100;stroke-opacity:1" />
+       style="opacity:1;fill:#565656;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:100;stroke-opacity:1" />
     <path
        id="path846"
        d="m 111.10404,95.224068 h 19.48525"
