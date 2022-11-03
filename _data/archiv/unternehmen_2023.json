@@ -74,5 +74,22 @@
             "Naturwissenschaftlich-technisches Studium (Physik, Informatik, Maschinenbau, Mathematik …)",
             "Know-how in Data Science oder Softwareentwicklung"
         ]
+    },
+    {
+        "name": "ROSEN Technology and Research Center",
+        "title": "",
+        "caption": "",
+        "logo": "/img/logos/ROSEN_logo.jpg",
+        "url": "https://www.rosen-group.com/",
+        "ad": "",
+        "ad_format": "portrait",
+        "branche": "",
+        "contact": "",
+        "text": "",
+        "employers": "",
+        "locations": "",
+        "qualifications": [
+            ""
+        ]
     }
 ]
