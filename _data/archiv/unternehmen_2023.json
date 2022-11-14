@@ -58,6 +58,24 @@
         ]
     },
     {
+        "name": "Forschungszentrum Jülich",
+        "ad": "img/catalogue_ads/FZJuelich_ad.jpg",
+        "ad_format": "landscape",
+        "title": "",
+        "caption": "",
+        "url": "https://www.fz-juelich.de/portal/DE/Karriere",
+        "logo": "img/logos/FZJ.jpg",
+        "branche": "Wissenschaft & Forschung",
+        "contact": "Alissa Aarts <br> Personalentwicklung und Recruiting <br> <a href='mailto:a.aarts@fz-juelich.de'>a.aarts@fz-juelich.de</a> ",
+        "text": "Forschung für eine Gesellschaft im Wandel: Das ist unser Antrieb im Forschungszentrum Jülich. Als Mitglied der Helmholtz-Gemeinschaft stellen wir uns großen Herausforderungen unserer Zeit: Wie können uns die Energiewende und eine Begrenzung des Klimawandels gelingen? Welche Herausforderungen ergeben sich durch die zunehmende Digitalisierung der Gesellschaft? Wird es uns gelingen, das menschliche Gehirn zu verstehen? Und wie können wir den Wandel hin zu einem biobasierten und nachhaltigen Wirtschaften ermöglichen? Bei uns arbeiten Sie gemeinsam mit über 7.000 Kolleginnen und Kollegen in einem der größten Forschungszentren Europas und leisten einen Beitrag zur Lösung gesellschaftlicher Fragestellungen. Gestalten Sie den Wandel mit uns!",
+        "employers": "7000",
+        "locations": "Jülich, Berlin, Rostock, München-Garching, Düsseldorf, Münster, Erlangen-Nürnberg, Bonn, Hamburg, Freiburg",
+        "qualifications": [
+            "Neugier an der Lösung herausfordernder Fragestellungen",
+            "Interesse an der Arbeit in internationalen und interdisziplinären Teams"
+        ]
+    },
+    {
         "name": "Point8",
         "ad": "img/catalogue_ads/p8_bild.png",
         "ad_format": "portrait",
