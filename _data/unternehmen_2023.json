@@ -24,16 +24,17 @@
         "title": "",
         "caption": "",
         "logo": "/img/logos/d-fine_logo.svg",
-        "url": "https://www.d-fine.com/",
-        "ad": "",
+        "url": "https://www.d-fine.com/karriere",
+        "ad": "img/catalogue_ads/dfine_katalog.png",
         "ad_format": "portrait",
-        "branche": "",
-        "contact": "",
-        "text": "",
-        "employers": "",
-        "locations": "",
+        "branche": "Unternehmensberatung",
+        "contact": "Nathalie Weidle, careers@d-fine.de",
+        "text": "d-fine ist ein kontinuierlich wachsendes europäisches Beratungsunternehmen mit über 1.000 Mitarbeiterinnen und Mitarbeitern. Wir sind mit acht Standorten in vier Ländern nah bei unseren Kunden. Im Fokus unserer Projekte liegen quantitative Fragestellungen rund um Data Analytics, Data Science, Modellierung und den Aufbau nachhaltiger technologischer Lösungen. Unser Beratungsansatz basiert auf langjähriger Praxiserfahrung und dynamischen Teams mit klarer analytischer und technologischer Prägung.",
+        "employers": "1000+",
+        "locations": "Frankfurt am Main, Düsseldorf, München, Hamburg, Berlin, London, Wien, Zürich",
         "qualifications": [
-            ""
+            "Sehr gute Studienleistungen", "fließende Deutsch- und Englischkenntnisse", "hohe mathematische und/oder technologische Affinität", 
+            "Abschluss in Physik, Mathematik, Informatik, Ingenieurwesen oder in weiteren Natur- und Wirtschaftswissenschaften"
         ]
     },
     {
@@ -99,15 +100,16 @@
         "caption": "",
         "logo": "/img/logos/ROSEN_logo.jpg",
         "url": "https://www.rosen-group.com/",
-        "ad": "",
-        "ad_format": "portrait",
-        "branche": "",
-        "contact": "",
-        "text": "",
-        "employers": "",
-        "locations": "",
+        "ad": "img/catalogue_ads/rosen_katalog.jpg",
+        "ad_format": "landscape",
+        "branche": "Anbieter von Dienstleistungen zur Inspektion von Industrieanlagen",
+        "contact": "Kerstin Reichhardt, hr-lin@rosen-group.com",
+        "text": "ROSEN ist ein führendes Familien-Unternehmen, das 1981 von Hermann Rosen gegründet wurde. Über die letzten 4 Dekaden wuchs ROSEN organisch und ist heute eine weltweit operierende Technologiegruppe in über 120 Ländern mit fast 4000 Mitarbeiterinnen und Mitarbeitern.
+        ROSEN Mitarbeiterinnen und Mitarbeiter besitzen die Leidenschaft für Technologien und Innovationen. Unser Claim „empowered by technology“ ist der Schlüssel zu unseren herausragenden und einzigartigen Produkten und Dienstleistungen, sowohl in der Öl und Gas - als auch in verschiedensten anderen Industrien. Im Fokus unserer Forschung und unserer Lösungen steht der sichere Betrieb von industriellen Anlagen – zum Schutz von Mensch und Umwelt.",
+        "employers": "4000",
+        "locations": "Lingen, Osnabrück, Bremen, Karlsruhe, Alzenau, Frankenthal, Dresden, Enschede zzgl. internationale Standorte",
         "qualifications": [
-            ""
+            "keine"
         ]
     }
 ]
