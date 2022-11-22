@@ -13,7 +13,7 @@
       unternehmen.text != ''" %}
       {% for unternehmen in katalog_unternehmen %}
       <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}"
-        id="{{ unternehmen.name | replace: ' ', '_' | escape}}">
+        id="{{ unternehmen.name | url_encode}}">
         <div class="container pt-2">
           <div class="row justify-content-center">
             <div class="col-12 col-xl-8 col-lg-8 col-md-11 col-sm-12">
