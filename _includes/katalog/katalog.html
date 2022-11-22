@@ -9,7 +9,8 @@
   <div id="katalog-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
     <div class="carousel-inner">
 
-      {% assign katalog_unternehmen = site.data.unternehmen_2023 | where_exp: "unternehmen", "unternehmen.text" %}
+      {% assign katalog_unternehmen = site.data.unternehmen_2023 | where_exp: "unternehmen", "unternehmen.text and
+      unternehmen.text != ''" %}
       {% for unternehmen in katalog_unternehmen %}
       <div class="carousel-item {%- if forloop.first == true %} active {%- endif -%}" id="{{ unternehmen.name }}">
         <div class="container pt-2">
